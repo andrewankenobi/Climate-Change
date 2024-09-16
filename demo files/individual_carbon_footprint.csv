@@ -1,0 +1,3001 @@
+Country,Age,Diet,Transportation,Housing,Carbon_Footprint
+France,19,Vegan,Public Transit,Apartment,1.95
+France,61,Vegan,Bicycle,Apartment,1.63
+France,19,Meat-based,Car,Apartment,3.82
+France,53,Meat-based,Bicycle,House,2.8
+UK,35,Meat-based,Car,House,5.32
+Germany,31,Vegetarian,Car,Apartment,5.4
+Italy,72,Vegetarian,Bicycle,House,3.2
+Spain,52,Meat-based,Public Transit,Apartment,4.16
+UK,74,Vegetarian,Bicycle,Apartment,2.89
+France,60,Meat-based,Public Transit,Apartment,3.68
+France,42,Vegetarian,Public Transit,House,2.85
+Italy,31,Vegan,Public Transit,Apartment,2.67
+Germany,52,Vegan,Car,Apartment,4.12
+Italy,77,Vegan,Bicycle,Apartment,2.11
+France,32,Meat-based,Public Transit,House,3.64
+Germany,76,Vegan,Bicycle,House,3.04
+Spain,43,Vegan,Public Transit,Apartment,2.35
+Germany,65,Vegan,Bicycle,House,3.39
+Spain,75,Vegan,Public Transit,House,2.59
+Germany,50,Vegetarian,Car,Apartment,5.94
+Germany,58,Meat-based,Bicycle,House,5.49
+Spain,42,Vegan,Public Transit,House,3.0
+France,61,Vegan,Car,House,2.68
+Italy,25,Vegetarian,Public Transit,Apartment,3.45
+Italy,80,Vegan,Car,Apartment,3.12
+Italy,71,Vegan,Bicycle,Apartment,1.89
+Germany,52,Vegan,Car,House,4.6
+France,77,Vegetarian,Public Transit,Apartment,2.5
+UK,78,Meat-based,Car,House,5.85
+UK,67,Meat-based,Car,House,5.99
+Germany,34,Vegan,Bicycle,House,3.53
+UK,66,Vegan,Bicycle,Apartment,2.17
+Spain,60,Vegan,Public Transit,House,2.96
+Spain,25,Meat-based,Car,Apartment,4.42
+UK,53,Meat-based,Bicycle,Apartment,3.12
+France,32,Meat-based,Car,House,3.88
+Germany,35,Vegan,Public Transit,Apartment,3.77
+UK,54,Vegetarian,Car,House,4.67
+Germany,24,Meat-based,Bicycle,House,5.23
+Spain,47,Vegan,Car,Apartment,2.5
+Italy,69,Meat-based,Car,Apartment,4.54
+Spain,26,Vegetarian,Car,House,4.03
+France,46,Vegan,Car,Apartment,2.36
+UK,71,Meat-based,Car,Apartment,4.62
+Spain,48,Meat-based,Public Transit,Apartment,3.84
+France,42,Vegetarian,Public Transit,House,3.01
+UK,60,Vegan,Public Transit,Apartment,2.51
+Germany,79,Meat-based,Bicycle,Apartment,5.08
+France,21,Vegan,Public Transit,Apartment,1.88
+UK,23,Meat-based,Car,Apartment,5.12
+Germany,43,Meat-based,Bicycle,Apartment,4.92
+France,57,Meat-based,Public Transit,House,4.15
+Germany,60,Vegan,Public Transit,Apartment,3.56
+Germany,60,Vegan,Public Transit,House,4.0
+France,18,Vegetarian,Bicycle,Apartment,1.95
+Germany,50,Vegetarian,Car,House,6.62
+Germany,41,Vegetarian,Car,House,6.56
+Italy,57,Vegan,Bicycle,Apartment,2.1
+UK,37,Vegan,Car,Apartment,2.83
+France,65,Vegan,Car,House,2.43
+Germany,63,Vegetarian,Car,House,6.16
+Italy,75,Meat-based,Car,House,5.73
+France,18,Vegetarian,Car,House,3.16
+Spain,53,Vegan,Public Transit,Apartment,2.28
+Germany,52,Meat-based,Public Transit,Apartment,6.14
+France,37,Vegetarian,Car,House,3.2
+Germany,60,Meat-based,Public Transit,House,7.58
+Germany,77,Meat-based,Car,Apartment,7.45
+France,29,Vegan,Public Transit,House,2.43
+Germany,35,Meat-based,Bicycle,Apartment,4.73
+France,72,Vegetarian,Car,Apartment,3.25
+Spain,40,Vegetarian,Car,Apartment,3.31
+Germany,43,Vegetarian,Public Transit,Apartment,5.45
+Italy,40,Vegan,Bicycle,House,2.34
+UK,39,Meat-based,Car,House,5.15
+Italy,20,Meat-based,Bicycle,House,3.65
+Italy,45,Vegan,Bicycle,Apartment,1.99
+UK,30,Vegetarian,Car,House,3.96
+UK,61,Vegan,Bicycle,Apartment,2.02
+France,78,Vegan,Public Transit,House,2.36
+France,64,Vegetarian,Bicycle,House,2.45
+Italy,43,Vegan,Public Transit,Apartment,2.45
+Spain,61,Vegan,Car,House,2.99
+France,37,Vegetarian,Car,House,3.59
+UK,59,Vegetarian,Public Transit,House,3.91
+Germany,50,Vegetarian,Bicycle,Apartment,4.0
+Italy,50,Vegan,Bicycle,House,2.08
+Germany,61,Vegetarian,Car,Apartment,5.15
+France,33,Vegetarian,Bicycle,Apartment,2.12
+UK,30,Vegan,Bicycle,House,2.31
+Germany,27,Vegan,Bicycle,Apartment,3.14
+France,67,Vegetarian,Car,Apartment,3.24
+UK,47,Meat-based,Bicycle,Apartment,3.75
+France,47,Meat-based,Public Transit,House,4.16
+Spain,57,Vegan,Bicycle,House,2.27
+UK,46,Meat-based,Bicycle,House,3.81
+Germany,71,Vegan,Public Transit,House,4.26
+Italy,46,Meat-based,Bicycle,House,3.57
+Italy,38,Vegan,Car,Apartment,2.7
+Spain,62,Meat-based,Bicycle,Apartment,2.92
+Spain,39,Vegan,Public Transit,House,2.5
+Spain,42,Vegan,Bicycle,Apartment,2.06
+UK,42,Vegetarian,Car,House,4.22
+Spain,72,Vegetarian,Bicycle,Apartment,2.55
+Italy,45,Vegetarian,Car,House,4.16
+Spain,64,Meat-based,Public Transit,Apartment,4.51
+UK,19,Vegetarian,Bicycle,Apartment,2.54
+Spain,26,Vegetarian,Car,Apartment,3.48
+Italy,31,Vegetarian,Public Transit,House,4.08
+Spain,35,Vegetarian,Public Transit,Apartment,3.27
+UK,21,Vegetarian,Car,Apartment,4.18
+France,66,Meat-based,Car,Apartment,4.07
+UK,27,Meat-based,Car,House,5.69
+UK,78,Meat-based,Public Transit,House,5.21
+Germany,56,Vegan,Bicycle,Apartment,3.07
+Germany,79,Vegetarian,Car,Apartment,6.01
+UK,61,Vegetarian,Public Transit,Apartment,3.26
+Germany,24,Vegan,Public Transit,Apartment,3.96
+UK,68,Meat-based,Public Transit,House,5.11
+France,50,Vegan,Public Transit,Apartment,2.2
+Spain,24,Vegetarian,Public Transit,House,3.81
+Spain,29,Vegan,Bicycle,House,2.18
+UK,67,Vegetarian,Public Transit,House,4.22
+UK,35,Vegetarian,Car,Apartment,3.78
+Spain,33,Vegetarian,Bicycle,House,2.75
+Spain,72,Vegetarian,Car,House,3.83
+Italy,39,Vegetarian,Bicycle,House,3.05
+UK,78,Meat-based,Car,Apartment,5.17
+Spain,53,Meat-based,Bicycle,House,3.66
+Spain,46,Meat-based,Car,House,4.8
+Germany,37,Vegan,Bicycle,House,3.21
+UK,40,Vegetarian,Bicycle,House,2.99
+Spain,35,Vegetarian,Public Transit,Apartment,3.04
+Germany,38,Meat-based,Bicycle,Apartment,4.55
+Spain,35,Vegan,Bicycle,House,2.34
+Germany,36,Meat-based,Public Transit,Apartment,5.98
+UK,26,Vegetarian,Car,Apartment,4.0
+Germany,58,Vegetarian,Car,Apartment,5.62
+Spain,48,Vegetarian,Public Transit,Apartment,3.6
+Italy,78,Vegetarian,Car,Apartment,3.8
+France,54,Vegan,Bicycle,Apartment,1.49
+UK,78,Vegetarian,Car,Apartment,3.66
+Spain,56,Vegan,Bicycle,Apartment,2.03
+Spain,46,Vegetarian,Public Transit,House,3.52
+UK,21,Vegan,Bicycle,Apartment,2.27
+Germany,58,Meat-based,Public Transit,Apartment,5.8
+Germany,53,Meat-based,Car,Apartment,6.79
+UK,48,Vegetarian,Car,Apartment,3.79
+Italy,62,Vegetarian,Car,Apartment,4.2
+UK,60,Meat-based,Public Transit,Apartment,4.49
+Germany,76,Vegetarian,Car,Apartment,5.05
+Italy,56,Vegan,Bicycle,House,2.23
+Spain,62,Vegetarian,Bicycle,House,3.1
+UK,52,Vegetarian,Public Transit,Apartment,3.63
+Spain,65,Vegetarian,Bicycle,House,2.58
+Germany,79,Vegan,Bicycle,Apartment,3.2
+Italy,54,Meat-based,Car,House,5.4
+Spain,76,Vegetarian,Car,House,4.17
+Spain,80,Meat-based,Public Transit,House,4.49
+Italy,60,Meat-based,Car,House,5.28
+Spain,36,Vegan,Public Transit,Apartment,2.45
+Italy,34,Vegetarian,Car,House,4.62
+France,60,Vegan,Public Transit,House,2.09
+UK,41,Vegan,Public Transit,House,3.12
+Germany,35,Vegan,Car,House,4.56
+Spain,25,Meat-based,Bicycle,Apartment,3.33
+Italy,53,Meat-based,Bicycle,House,3.46
+France,47,Meat-based,Bicycle,Apartment,2.67
+Italy,50,Vegan,Public Transit,House,3.1
+Spain,33,Vegetarian,Bicycle,Apartment,2.5
+UK,50,Vegan,Car,Apartment,2.84
+Spain,39,Vegan,Public Transit,Apartment,2.36
+Italy,71,Vegan,Bicycle,House,2.42
+Spain,52,Vegetarian,Public Transit,House,3.7
+UK,42,Vegetarian,Public Transit,Apartment,3.91
+Germany,54,Vegetarian,Car,House,5.59
+Spain,63,Vegetarian,Public Transit,Apartment,3.29
+France,26,Vegan,Bicycle,House,1.91
+Spain,24,Vegan,Public Transit,Apartment,2.58
+Spain,73,Vegan,Car,Apartment,2.73
+Italy,39,Vegan,Bicycle,House,2.33
+Italy,72,Vegan,Bicycle,House,2.46
+Spain,73,Vegan,Car,Apartment,2.6
+Italy,32,Vegan,Car,House,3.54
+France,46,Meat-based,Bicycle,House,3.21
+France,38,Meat-based,Public Transit,House,3.72
+Germany,33,Vegan,Public Transit,Apartment,3.49
+France,57,Vegetarian,Bicycle,Apartment,2.14
+UK,27,Meat-based,Public Transit,House,4.91
+France,75,Vegetarian,Public Transit,Apartment,2.51
+Italy,55,Vegetarian,Bicycle,House,3.13
+Spain,72,Vegetarian,Car,House,4.35
+France,33,Vegetarian,Bicycle,House,2.41
+Italy,19,Vegan,Public Transit,House,2.62
+France,76,Vegan,Bicycle,House,1.9
+Italy,67,Meat-based,Bicycle,House,3.55
+Germany,57,Vegetarian,Bicycle,Apartment,3.98
+France,37,Vegetarian,Car,House,3.55
+France,76,Vegetarian,Public Transit,House,2.85
+Germany,68,Vegan,Public Transit,House,4.43
+Italy,76,Vegetarian,Public Transit,House,4.11
+Spain,79,Meat-based,Car,Apartment,4.9
+Spain,79,Vegan,Public Transit,Apartment,2.61
+France,34,Vegan,Car,House,2.48
+Italy,55,Vegetarian,Bicycle,House,2.78
+Germany,48,Meat-based,Bicycle,House,5.83
+Germany,59,Meat-based,Bicycle,House,5.82
+Italy,59,Vegetarian,Car,Apartment,3.52
+France,37,Vegetarian,Car,Apartment,2.89
+UK,26,Vegetarian,Public Transit,House,4.1
+UK,44,Vegan,Bicycle,Apartment,2.24
+France,71,Vegetarian,Bicycle,House,2.58
+Italy,20,Vegan,Public Transit,Apartment,2.59
+Germany,72,Vegetarian,Car,House,6.21
+Italy,21,Vegetarian,Public Transit,Apartment,3.81
+Spain,23,Vegan,Car,Apartment,2.5
+Italy,33,Meat-based,Bicycle,Apartment,3.1
+UK,31,Vegan,Car,Apartment,2.87
+Germany,68,Vegan,Car,House,4.94
+Germany,26,Vegan,Public Transit,Apartment,3.45
+France,26,Meat-based,Public Transit,Apartment,3.5
+France,29,Vegetarian,Car,Apartment,3.2
+UK,25,Vegan,Car,House,3.27
+Italy,50,Vegan,Car,House,3.23
+UK,20,Vegan,Bicycle,House,2.29
+France,21,Vegetarian,Public Transit,House,3.17
+Spain,63,Vegetarian,Car,Apartment,3.53
+Germany,22,Meat-based,Public Transit,House,6.76
+UK,51,Vegetarian,Public Transit,House,3.64
+France,72,Vegan,Bicycle,Apartment,1.58
+Germany,44,Vegetarian,Public Transit,House,5.44
+France,38,Vegetarian,Public Transit,House,2.98
+Germany,61,Vegetarian,Car,Apartment,5.9
+France,45,Meat-based,Bicycle,House,3.15
+UK,21,Vegan,Bicycle,House,2.39
+Spain,40,Vegan,Public Transit,Apartment,2.7
+UK,37,Vegetarian,Car,Apartment,3.69
+Spain,32,Meat-based,Public Transit,House,4.22
+Italy,54,Meat-based,Public Transit,Apartment,4.45
+Italy,19,Meat-based,Public Transit,House,5.25
+Italy,18,Meat-based,Car,House,4.92
+France,23,Vegan,Bicycle,Apartment,1.56
+Spain,39,Meat-based,Public Transit,House,4.77
+UK,56,Meat-based,Car,Apartment,4.61
+UK,21,Vegan,Car,House,3.26
+Spain,49,Vegan,Public Transit,House,2.62
+UK,25,Vegetarian,Public Transit,Apartment,3.41
+UK,49,Vegan,Bicycle,House,2.1
+Spain,56,Meat-based,Car,Apartment,4.39
+Germany,67,Meat-based,Public Transit,House,6.68
+France,49,Vegan,Public Transit,Apartment,1.91
+UK,63,Meat-based,Bicycle,House,3.52
+France,45,Meat-based,Public Transit,Apartment,3.68
+UK,45,Vegan,Public Transit,House,2.84
+Spain,19,Vegetarian,Car,House,4.33
+Italy,23,Vegetarian,Car,Apartment,3.82
+Spain,51,Meat-based,Public Transit,House,4.8
+Germany,39,Meat-based,Car,Apartment,6.96
+Germany,75,Vegetarian,Public Transit,Apartment,4.72
+Germany,34,Meat-based,Car,Apartment,7.28
+France,29,Vegan,Public Transit,House,2.41
+UK,46,Vegan,Bicycle,House,2.48
+Italy,27,Vegetarian,Car,House,4.25
+Italy,68,Vegetarian,Bicycle,Apartment,2.63
+France,37,Vegetarian,Public Transit,Apartment,2.5
+Italy,22,Vegan,Car,House,3.2
+UK,79,Vegan,Car,House,3.57
+UK,59,Meat-based,Public Transit,House,4.95
+France,46,Meat-based,Public Transit,Apartment,3.44
+Germany,20,Meat-based,Bicycle,House,5.91
+UK,51,Vegan,Car,House,3.22
+Italy,42,Vegetarian,Public Transit,Apartment,3.69
+Italy,22,Vegetarian,Car,House,4.12
+UK,73,Meat-based,Public Transit,Apartment,4.53
+Germany,76,Vegetarian,Public Transit,House,5.13
+France,37,Vegan,Public Transit,House,2.43
+UK,23,Vegan,Bicycle,House,2.31
+France,41,Vegetarian,Car,Apartment,2.96
+Spain,30,Meat-based,Car,Apartment,4.19
+France,50,Vegan,Bicycle,Apartment,1.65
+UK,26,Vegan,Public Transit,Apartment,2.49
+UK,69,Meat-based,Bicycle,House,3.5
+Italy,61,Vegan,Car,House,3.3
+Spain,32,Vegan,Car,House,3.33
+Spain,75,Meat-based,Public Transit,House,4.54
+Italy,67,Vegetarian,Bicycle,House,3.29
+Germany,69,Vegan,Car,House,4.2
+Spain,73,Vegetarian,Bicycle,Apartment,2.67
+UK,72,Meat-based,Public Transit,Apartment,4.69
+Italy,46,Vegan,Car,House,2.96
+Germany,70,Vegetarian,Public Transit,Apartment,4.9
+Spain,50,Vegetarian,Car,House,4.47
+Italy,32,Meat-based,Public Transit,Apartment,4.65
+Italy,68,Meat-based,Car,Apartment,4.64
+Spain,62,Meat-based,Bicycle,House,3.52
+France,75,Meat-based,Car,House,4.0
+Germany,53,Vegan,Bicycle,House,2.98
+Italy,33,Vegetarian,Car,Apartment,3.67
+UK,47,Meat-based,Car,House,5.61
+France,58,Vegan,Bicycle,Apartment,1.67
+Italy,45,Meat-based,Bicycle,House,3.57
+Spain,29,Vegan,Bicycle,Apartment,1.93
+Italy,22,Vegan,Bicycle,Apartment,1.99
+Spain,20,Vegan,Public Transit,House,2.61
+France,40,Meat-based,Public Transit,Apartment,3.59
+France,67,Vegan,Bicycle,House,1.65
+Italy,52,Vegetarian,Bicycle,Apartment,2.89
+Spain,80,Vegan,Public Transit,Apartment,2.62
+France,63,Vegetarian,Car,House,3.19
+Germany,74,Meat-based,Public Transit,House,6.94
+UK,48,Vegetarian,Car,Apartment,3.79
+France,73,Vegan,Public Transit,House,2.12
+Italy,45,Vegetarian,Bicycle,House,3.25
+Spain,39,Meat-based,Public Transit,House,4.45
+UK,35,Meat-based,Bicycle,House,3.53
+UK,70,Meat-based,Bicycle,House,3.71
+France,38,Vegan,Public Transit,House,2.26
+Spain,28,Vegan,Public Transit,House,2.71
+Italy,57,Vegetarian,Public Transit,Apartment,3.19
+Spain,41,Vegan,Bicycle,Apartment,2.09
+Germany,72,Vegan,Bicycle,House,2.93
+France,33,Vegan,Public Transit,House,2.24
+UK,20,Vegan,Car,House,3.6
+Italy,46,Meat-based,Bicycle,Apartment,3.41
+Spain,38,Vegan,Public Transit,Apartment,2.7
+France,65,Meat-based,Public Transit,House,4.13
+France,34,Vegetarian,Bicycle,House,2.24
+UK,36,Vegan,Public Transit,Apartment,2.47
+France,46,Meat-based,Bicycle,House,3.26
+Italy,60,Vegetarian,Bicycle,Apartment,2.74
+Italy,75,Vegetarian,Car,Apartment,4.1
+UK,32,Meat-based,Car,Apartment,4.69
+Spain,19,Vegetarian,Bicycle,House,2.83
+UK,26,Vegan,Car,Apartment,2.86
+Spain,51,Vegetarian,Public Transit,Apartment,3.05
+Italy,59,Meat-based,Public Transit,House,5.02
+Italy,26,Vegan,Bicycle,Apartment,2.14
+Germany,45,Vegan,Car,Apartment,4.17
+Italy,28,Meat-based,Public Transit,Apartment,4.22
+UK,75,Vegetarian,Car,House,4.13
+UK,35,Meat-based,Bicycle,House,3.94
+France,50,Vegan,Car,Apartment,2.14
+UK,64,Vegan,Public Transit,Apartment,2.85
+France,23,Meat-based,Bicycle,House,3.06
+UK,44,Vegan,Bicycle,Apartment,2.08
+UK,36,Vegan,Public Transit,House,2.82
+Spain,37,Vegetarian,Car,Apartment,3.41
+Spain,48,Vegetarian,Car,House,4.15
+Italy,73,Vegan,Public Transit,House,3.18
+Germany,66,Vegetarian,Bicycle,Apartment,3.74
+Spain,25,Vegetarian,Public Transit,Apartment,3.06
+France,36,Vegetarian,Bicycle,House,2.25
+Germany,70,Vegetarian,Bicycle,House,4.04
+Germany,49,Vegan,Public Transit,House,4.47
+Spain,19,Meat-based,Public Transit,House,5.0
+Germany,55,Vegetarian,Car,Apartment,5.29
+UK,74,Vegan,Bicycle,House,2.21
+France,72,Meat-based,Public Transit,Apartment,3.7
+Italy,66,Vegetarian,Public Transit,Apartment,3.42
+UK,53,Meat-based,Public Transit,House,4.53
+UK,46,Vegan,Public Transit,Apartment,2.47
+France,43,Vegetarian,Public Transit,House,3.21
+Germany,56,Vegan,Public Transit,Apartment,3.4
+Germany,63,Vegetarian,Public Transit,House,5.15
+UK,26,Vegetarian,Bicycle,House,2.87
+UK,65,Vegetarian,Bicycle,House,3.08
+UK,52,Vegetarian,Bicycle,House,3.06
+France,41,Vegetarian,Bicycle,Apartment,2.34
+UK,37,Vegan,Bicycle,Apartment,2.12
+Italy,79,Vegan,Bicycle,Apartment,2.12
+UK,48,Meat-based,Bicycle,House,3.58
+Germany,20,Vegan,Bicycle,Apartment,2.73
+Spain,38,Vegetarian,Car,House,4.22
+Spain,50,Vegan,Public Transit,Apartment,2.57
+UK,31,Vegan,Public Transit,House,2.99
+Italy,79,Meat-based,Public Transit,House,4.89
+Italy,57,Vegetarian,Car,Apartment,3.7
+Italy,32,Vegetarian,Public Transit,Apartment,3.62
+Spain,38,Vegetarian,Public Transit,House,3.5
+UK,61,Vegan,Public Transit,House,3.16
+Germany,36,Meat-based,Public Transit,Apartment,6.04
+Spain,59,Vegetarian,Bicycle,House,2.68
+UK,35,Vegan,Bicycle,House,2.14
+UK,65,Vegan,Car,Apartment,2.7
+UK,32,Vegan,Car,Apartment,2.73
+Italy,63,Vegetarian,Car,Apartment,3.49
+UK,80,Meat-based,Public Transit,House,4.93
+Germany,66,Vegetarian,Public Transit,House,5.7
+France,59,Vegan,Car,Apartment,2.48
+Germany,44,Meat-based,Car,House,8.13
+Germany,77,Vegan,Public Transit,Apartment,3.37
+UK,56,Meat-based,Public Transit,House,4.9
+UK,51,Vegetarian,Car,House,4.2
+France,39,Meat-based,Bicycle,House,3.06
+Germany,18,Vegan,Public Transit,House,4.21
+Germany,29,Vegan,Bicycle,House,3.44
+UK,38,Meat-based,Public Transit,Apartment,4.17
+Germany,48,Vegetarian,Car,Apartment,5.27
+Germany,46,Vegetarian,Public Transit,House,5.63
+UK,18,Vegetarian,Bicycle,House,3.2
+France,60,Meat-based,Public Transit,House,3.56
+UK,77,Vegan,Public Transit,Apartment,2.75
+Italy,41,Vegan,Car,Apartment,3.17
+Spain,27,Vegetarian,Bicycle,House,2.8
+UK,76,Vegetarian,Bicycle,Apartment,2.92
+UK,73,Meat-based,Bicycle,House,3.87
+Italy,22,Vegan,Car,Apartment,3.1
+UK,30,Vegan,Bicycle,Apartment,1.94
+UK,46,Meat-based,Bicycle,Apartment,3.62
+Spain,23,Vegan,Public Transit,Apartment,2.45
+UK,44,Vegetarian,Bicycle,Apartment,2.8
+Italy,64,Meat-based,Public Transit,House,5.15
+Germany,55,Meat-based,Car,House,7.45
+France,52,Meat-based,Car,House,3.84
+Spain,29,Meat-based,Bicycle,House,3.47
+Spain,46,Vegetarian,Public Transit,Apartment,3.41
+UK,26,Vegan,Public Transit,Apartment,2.5
+UK,43,Vegan,Car,Apartment,3.17
+France,80,Vegetarian,Public Transit,House,3.07
+Germany,33,Vegetarian,Public Transit,Apartment,4.76
+France,20,Vegan,Public Transit,Apartment,1.95
+France,24,Vegan,Car,House,2.59
+France,33,Vegan,Car,House,2.51
+UK,31,Meat-based,Car,House,5.21
+UK,38,Vegan,Bicycle,House,2.19
+Germany,60,Vegan,Car,House,4.43
+France,53,Vegan,Bicycle,Apartment,1.64
+Spain,53,Vegetarian,Car,House,4.42
+Spain,68,Vegan,Public Transit,House,2.69
+Italy,42,Meat-based,Bicycle,House,3.57
+Germany,37,Vegan,Car,House,5.0
+UK,44,Vegetarian,Bicycle,Apartment,2.71
+Italy,31,Vegetarian,Bicycle,Apartment,2.94
+Italy,23,Vegan,Bicycle,Apartment,1.85
+Spain,61,Vegan,Bicycle,Apartment,2.06
+Germany,69,Vegan,Bicycle,Apartment,2.89
+Italy,37,Meat-based,Car,Apartment,5.29
+France,65,Vegetarian,Car,Apartment,2.99
+Germany,53,Vegetarian,Public Transit,House,5.5
+Italy,37,Vegetarian,Public Transit,House,3.85
+Spain,66,Vegetarian,Car,House,3.91
+France,54,Meat-based,Bicycle,Apartment,2.41
+UK,77,Vegan,Bicycle,House,2.22
+Germany,39,Meat-based,Public Transit,Apartment,6.23
+Italy,34,Vegetarian,Bicycle,House,2.99
+Italy,28,Meat-based,Bicycle,House,3.53
+UK,59,Meat-based,Bicycle,Apartment,3.7
+France,78,Vegan,Car,Apartment,2.25
+Germany,22,Vegan,Car,Apartment,3.92
+Spain,41,Meat-based,Bicycle,House,3.67
+France,18,Vegan,Bicycle,House,1.61
+UK,64,Vegetarian,Bicycle,House,2.78
+Spain,69,Meat-based,Car,Apartment,4.59
+Germany,30,Vegan,Bicycle,House,3.43
+Italy,68,Vegetarian,Car,House,4.7
+Spain,54,Meat-based,Bicycle,Apartment,3.07
+France,59,Vegan,Car,Apartment,2.25
+Spain,53,Vegetarian,Car,Apartment,3.81
+France,49,Vegetarian,Bicycle,House,2.41
+France,75,Vegan,Car,Apartment,2.16
+UK,48,Vegetarian,Car,Apartment,4.11
+Italy,75,Vegan,Bicycle,Apartment,1.9
+Italy,19,Meat-based,Bicycle,Apartment,3.56
+Spain,77,Meat-based,Public Transit,Apartment,4.17
+UK,71,Vegetarian,Bicycle,House,3.01
+Germany,68,Vegan,Bicycle,Apartment,2.91
+Italy,21,Meat-based,Public Transit,Apartment,4.65
+Italy,56,Vegan,Bicycle,House,2.47
+Italy,19,Vegan,Public Transit,House,2.9
+Italy,53,Vegetarian,Public Transit,Apartment,3.61
+Spain,23,Vegan,Public Transit,Apartment,2.57
+France,35,Meat-based,Public Transit,Apartment,3.6
+Italy,41,Meat-based,Car,Apartment,5.27
+Spain,41,Vegetarian,Car,Apartment,3.36
+Spain,46,Vegan,Bicycle,House,1.96
+France,40,Vegan,Car,House,2.73
+France,36,Vegetarian,Public Transit,Apartment,2.87
+UK,75,Meat-based,Bicycle,Apartment,3.59
+Germany,26,Vegetarian,Public Transit,House,5.53
+France,28,Vegetarian,Public Transit,House,2.93
+France,41,Vegetarian,Car,House,3.46
+Germany,47,Meat-based,Car,House,6.93
+Spain,39,Vegan,Public Transit,House,2.71
+Spain,70,Vegan,Bicycle,Apartment,1.84
+UK,78,Vegan,Car,House,3.18
+Spain,79,Vegetarian,Public Transit,House,4.0
+Germany,38,Vegetarian,Public Transit,House,5.39
+UK,30,Vegan,Bicycle,Apartment,2.15
+UK,19,Vegan,Public Transit,Apartment,2.64
+Italy,71,Vegan,Car,House,3.34
+Germany,58,Vegetarian,Car,House,6.35
+Spain,68,Vegetarian,Car,House,4.46
+Spain,55,Vegetarian,Bicycle,House,2.87
+Italy,62,Vegan,Bicycle,Apartment,1.87
+Germany,60,Vegan,Public Transit,Apartment,3.85
+France,54,Vegan,Bicycle,House,1.95
+Italy,79,Vegetarian,Car,Apartment,3.56
+Germany,50,Vegan,Bicycle,Apartment,2.88
+Spain,47,Vegan,Bicycle,Apartment,1.86
+France,48,Meat-based,Public Transit,House,4.14
+France,25,Vegan,Car,House,2.45
+Spain,68,Meat-based,Bicycle,House,3.45
+France,46,Vegan,Bicycle,House,1.72
+Italy,20,Vegan,Car,Apartment,3.11
+France,61,Meat-based,Bicycle,Apartment,2.68
+UK,28,Vegetarian,Bicycle,House,3.36
+Germany,69,Vegetarian,Bicycle,Apartment,3.63
+Spain,43,Meat-based,Bicycle,Apartment,3.17
+Spain,42,Meat-based,Bicycle,Apartment,3.01
+France,54,Meat-based,Bicycle,Apartment,2.6
+Germany,47,Meat-based,Public Transit,House,6.96
+Italy,56,Vegetarian,Bicycle,House,3.07
+Italy,40,Vegetarian,Bicycle,Apartment,2.88
+Italy,76,Vegan,Bicycle,Apartment,2.1
+Italy,25,Meat-based,Public Transit,Apartment,4.08
+Germany,50,Vegetarian,Public Transit,Apartment,5.06
+Spain,29,Vegetarian,Bicycle,Apartment,2.59
+Spain,36,Meat-based,Car,House,5.43
+UK,21,Vegetarian,Car,House,4.08
+Spain,79,Vegan,Bicycle,House,2.09
+Spain,44,Vegan,Public Transit,House,2.56
+UK,19,Meat-based,Public Transit,Apartment,4.25
+UK,36,Meat-based,Public Transit,House,5.0
+France,54,Meat-based,Public Transit,House,3.85
+France,66,Vegan,Public Transit,Apartment,2.26
+France,65,Vegan,Car,House,2.73
+France,46,Vegetarian,Public Transit,Apartment,2.71
+France,67,Meat-based,Car,House,4.55
+UK,58,Vegetarian,Car,Apartment,4.19
+Germany,69,Meat-based,Bicycle,House,5.42
+UK,52,Meat-based,Public Transit,House,4.74
+Italy,78,Vegan,Bicycle,Apartment,1.89
+Spain,76,Meat-based,Public Transit,Apartment,4.28
+Germany,33,Meat-based,Bicycle,House,5.74
+Spain,49,Meat-based,Bicycle,House,3.65
+Spain,46,Meat-based,Bicycle,Apartment,3.14
+Italy,62,Vegetarian,Public Transit,House,3.74
+France,73,Vegan,Car,House,2.61
+Italy,72,Meat-based,Bicycle,House,3.55
+Spain,70,Meat-based,Public Transit,House,4.41
+Italy,39,Vegan,Bicycle,Apartment,2.06
+Spain,68,Vegetarian,Bicycle,Apartment,2.33
+Spain,19,Meat-based,Car,House,5.04
+Spain,30,Vegan,Car,House,2.84
+Italy,23,Vegan,Public Transit,House,2.66
+Germany,21,Vegetarian,Bicycle,House,4.5
+Germany,45,Vegan,Car,Apartment,3.74
+Spain,22,Meat-based,Bicycle,Apartment,3.21
+Spain,18,Meat-based,Bicycle,House,3.78
+Spain,62,Meat-based,Public Transit,Apartment,3.89
+France,64,Meat-based,Car,House,4.13
+Italy,26,Vegetarian,Car,Apartment,3.54
+UK,18,Vegan,Bicycle,Apartment,2.05
+Germany,58,Vegan,Car,House,4.72
+Spain,73,Meat-based,Car,Apartment,4.24
+France,55,Vegan,Public Transit,House,2.5
+Italy,68,Meat-based,Car,House,5.54
+Germany,53,Vegan,Bicycle,House,3.41
+France,72,Vegan,Public Transit,Apartment,2.07
+UK,30,Vegan,Public Transit,House,3.06
+Germany,49,Vegetarian,Car,Apartment,5.54
+UK,22,Vegan,Car,House,3.59
+Germany,42,Vegan,Public Transit,House,4.19
+Germany,66,Vegetarian,Car,Apartment,5.63
+France,34,Meat-based,Car,Apartment,4.16
+Spain,50,Vegetarian,Bicycle,House,2.8
+Spain,23,Vegan,Bicycle,Apartment,1.83
+Italy,23,Vegan,Car,Apartment,2.93
+Spain,55,Vegan,Bicycle,Apartment,1.85
+Spain,64,Meat-based,Car,Apartment,4.19
+Spain,25,Vegetarian,Bicycle,Apartment,2.46
+Germany,25,Meat-based,Bicycle,Apartment,5.04
+Germany,49,Vegetarian,Bicycle,House,4.02
+Germany,65,Vegetarian,Bicycle,Apartment,4.09
+France,39,Vegetarian,Public Transit,Apartment,2.62
+UK,58,Meat-based,Public Transit,House,4.96
+France,49,Vegan,Car,House,2.37
+France,75,Vegan,Bicycle,Apartment,1.52
+UK,18,Meat-based,Car,Apartment,4.5
+Italy,42,Meat-based,Car,Apartment,4.89
+Spain,32,Vegetarian,Car,House,4.4
+Italy,35,Meat-based,Bicycle,House,3.48
+France,29,Meat-based,Bicycle,Apartment,2.91
+France,74,Vegetarian,Public Transit,House,2.95
+UK,47,Meat-based,Public Transit,Apartment,4.27
+Italy,65,Vegan,Car,House,3.14
+Spain,67,Meat-based,Bicycle,Apartment,2.98
+Spain,19,Meat-based,Bicycle,House,3.65
+France,78,Vegetarian,Car,House,3.63
+Italy,24,Meat-based,Bicycle,Apartment,3.34
+France,80,Meat-based,Bicycle,House,2.73
+Germany,75,Vegan,Public Transit,House,4.12
+France,55,Meat-based,Bicycle,Apartment,2.74
+Spain,22,Vegan,Bicycle,Apartment,1.9
+Germany,33,Vegetarian,Public Transit,House,6.01
+Spain,62,Vegan,Public Transit,House,2.72
+Germany,22,Meat-based,Car,Apartment,6.44
+Germany,46,Vegetarian,Public Transit,House,5.12
+Italy,79,Meat-based,Public Transit,House,4.81
+France,23,Meat-based,Bicycle,House,3.16
+UK,20,Meat-based,Public Transit,Apartment,4.09
+Germany,79,Vegetarian,Public Transit,Apartment,5.16
+Italy,70,Meat-based,Car,House,5.76
+UK,65,Vegan,Car,Apartment,2.95
+Germany,25,Meat-based,Car,Apartment,6.41
+Spain,41,Vegan,Bicycle,Apartment,1.95
+Italy,76,Meat-based,Car,Apartment,4.55
+Spain,69,Meat-based,Car,House,4.7
+Spain,21,Meat-based,Bicycle,House,3.78
+Spain,49,Meat-based,Public Transit,House,4.27
+Germany,76,Meat-based,Public Transit,House,6.85
+Germany,20,Vegan,Bicycle,Apartment,2.99
+Spain,44,Vegan,Public Transit,Apartment,2.27
+Spain,26,Vegetarian,Car,Apartment,3.75
+UK,68,Meat-based,Public Transit,House,4.93
+Spain,40,Vegan,Bicycle,House,2.09
+Germany,19,Vegetarian,Bicycle,Apartment,3.51
+Italy,21,Vegetarian,Bicycle,House,3.17
+Germany,80,Meat-based,Car,Apartment,7.14
+Italy,52,Vegan,Car,Apartment,2.95
+Spain,40,Meat-based,Car,Apartment,4.66
+Italy,76,Vegan,Car,House,3.52
+UK,27,Vegan,Car,House,3.33
+Germany,49,Meat-based,Car,Apartment,6.55
+Germany,19,Vegan,Public Transit,Apartment,3.61
+UK,30,Meat-based,Public Transit,Apartment,4.83
+Italy,21,Meat-based,Car,Apartment,5.11
+UK,73,Vegetarian,Car,House,4.58
+Spain,55,Meat-based,Public Transit,House,4.41
+Germany,64,Vegetarian,Bicycle,House,4.43
+Germany,63,Vegan,Bicycle,House,3.05
+UK,70,Meat-based,Public Transit,House,5.18
+Italy,26,Meat-based,Bicycle,Apartment,3.69
+UK,43,Vegan,Car,Apartment,3.03
+UK,32,Vegan,Bicycle,Apartment,2.26
+Germany,39,Vegan,Car,Apartment,4.03
+Italy,28,Vegan,Car,House,3.19
+Italy,31,Meat-based,Bicycle,Apartment,3.29
+France,64,Meat-based,Car,House,4.19
+Spain,80,Meat-based,Public Transit,House,4.92
+Italy,52,Vegetarian,Car,House,4.55
+UK,59,Vegan,Car,Apartment,2.94
+France,36,Meat-based,Public Transit,House,4.16
+France,39,Meat-based,Public Transit,Apartment,3.59
+UK,78,Meat-based,Public Transit,House,5.15
+Spain,78,Vegan,Car,House,2.84
+France,39,Meat-based,Car,House,4.41
+UK,34,Vegan,Public Transit,House,2.81
+France,43,Vegan,Bicycle,House,1.66
+Italy,18,Vegetarian,Car,House,4.58
+UK,48,Meat-based,Car,Apartment,4.66
+Italy,80,Meat-based,Public Transit,Apartment,4.19
+Spain,48,Vegetarian,Bicycle,House,2.61
+UK,42,Meat-based,Public Transit,House,4.82
+Spain,20,Vegetarian,Public Transit,House,3.48
+Italy,54,Meat-based,Car,Apartment,4.44
+Italy,69,Vegan,Public Transit,Apartment,2.64
+Spain,70,Vegan,Public Transit,House,2.78
+Germany,48,Vegetarian,Car,House,6.65
+France,50,Vegan,Bicycle,Apartment,1.48
+Spain,29,Meat-based,Car,Apartment,4.23
+Spain,23,Vegan,Public Transit,Apartment,2.71
+Germany,71,Vegan,Public Transit,House,4.49
+France,23,Vegetarian,Bicycle,House,2.4
+Italy,51,Vegetarian,Car,House,3.97
+Germany,27,Vegan,Bicycle,Apartment,3.15
+UK,67,Meat-based,Public Transit,House,5.32
+Italy,42,Vegan,Public Transit,House,2.64
+Italy,43,Meat-based,Bicycle,House,3.42
+Italy,62,Meat-based,Car,House,5.83
+Italy,19,Vegetarian,Public Transit,House,3.7
+Spain,72,Vegan,Bicycle,Apartment,2.1
+Germany,26,Vegetarian,Bicycle,House,4.54
+Italy,35,Vegan,Public Transit,Apartment,2.45
+Germany,76,Vegetarian,Bicycle,House,4.53
+Italy,70,Meat-based,Bicycle,Apartment,3.09
+UK,43,Meat-based,Bicycle,Apartment,3.24
+Germany,71,Meat-based,Car,Apartment,6.86
+Italy,63,Meat-based,Public Transit,House,5.16
+UK,43,Vegan,Car,Apartment,2.82
+Spain,56,Vegetarian,Car,House,4.13
+Italy,40,Meat-based,Public Transit,Apartment,4.17
+Spain,21,Meat-based,Bicycle,Apartment,3.43
+Germany,61,Meat-based,Public Transit,House,6.94
+France,48,Meat-based,Bicycle,Apartment,2.73
+France,32,Vegetarian,Bicycle,House,2.48
+Italy,45,Vegetarian,Public Transit,House,3.68
+Spain,37,Vegan,Bicycle,House,2.17
+France,50,Vegan,Public Transit,House,2.2
+France,48,Meat-based,Public Transit,House,3.92
+Italy,34,Vegan,Bicycle,House,2.12
+UK,66,Meat-based,Car,House,5.68
+Germany,64,Meat-based,Bicycle,House,5.92
+Italy,76,Vegetarian,Public Transit,House,4.06
+UK,63,Vegan,Car,House,3.45
+Germany,61,Vegan,Bicycle,House,3.49
+Italy,50,Vegetarian,Car,Apartment,3.71
+Spain,26,Vegan,Public Transit,Apartment,2.69
+Italy,59,Meat-based,Car,House,5.08
+Italy,44,Vegetarian,Public Transit,House,3.94
+Spain,72,Meat-based,Public Transit,Apartment,4.42
+UK,55,Vegan,Car,House,3.56
+UK,25,Vegan,Public Transit,House,2.92
+Germany,26,Meat-based,Public Transit,House,7.6
+Spain,27,Vegetarian,Bicycle,Apartment,2.7
+Spain,39,Vegan,Car,House,3.13
+France,46,Vegetarian,Car,Apartment,3.1
+Germany,49,Meat-based,Car,House,7.9
+Spain,45,Vegetarian,Public Transit,Apartment,2.99
+Germany,64,Vegetarian,Car,House,6.47
+UK,30,Meat-based,Bicycle,Apartment,3.55
+Germany,32,Vegan,Public Transit,House,3.84
+Spain,50,Vegan,Public Transit,Apartment,2.25
+France,37,Vegetarian,Public Transit,House,3.01
+Germany,39,Vegetarian,Public Transit,Apartment,4.65
+Spain,19,Meat-based,Car,Apartment,4.31
+France,55,Vegan,Car,Apartment,2.23
+France,42,Vegan,Public Transit,Apartment,2.1
+France,60,Meat-based,Bicycle,Apartment,2.43
+France,44,Vegetarian,Public Transit,Apartment,2.77
+Spain,62,Meat-based,Car,Apartment,4.39
+France,60,Vegan,Public Transit,Apartment,2.03
+France,50,Vegan,Bicycle,Apartment,1.53
+France,49,Meat-based,Bicycle,Apartment,2.82
+UK,80,Meat-based,Public Transit,House,4.75
+France,53,Vegetarian,Car,House,3.28
+France,18,Vegan,Car,Apartment,2.44
+Spain,27,Meat-based,Bicycle,Apartment,3.34
+France,75,Vegetarian,Bicycle,Apartment,2.12
+Italy,34,Vegetarian,Car,Apartment,4.12
+France,72,Vegetarian,Public Transit,House,3.01
+France,24,Meat-based,Car,Apartment,3.94
+Germany,39,Vegetarian,Public Transit,House,5.96
+France,41,Vegetarian,Car,Apartment,2.99
+Spain,35,Vegetarian,Bicycle,House,3.02
+Germany,25,Meat-based,Bicycle,Apartment,5.31
+Germany,24,Vegetarian,Bicycle,House,4.57
+Spain,29,Vegan,Public Transit,House,2.8
+Germany,48,Vegetarian,Car,House,6.08
+France,34,Vegan,Public Transit,Apartment,2.14
+UK,67,Vegan,Bicycle,Apartment,2.28
+Italy,51,Vegan,Bicycle,Apartment,2.01
+Germany,48,Vegetarian,Bicycle,House,4.0
+UK,75,Vegan,Car,Apartment,3.06
+Germany,50,Vegetarian,Public Transit,Apartment,4.56
+Spain,38,Meat-based,Public Transit,House,4.16
+Germany,53,Vegan,Public Transit,House,4.42
+France,47,Vegetarian,Bicycle,House,2.18
+Spain,46,Vegetarian,Car,House,4.26
+France,24,Vegetarian,Public Transit,Apartment,2.78
+France,70,Meat-based,Bicycle,House,3.2
+UK,31,Vegan,Bicycle,House,2.52
+Italy,70,Meat-based,Car,House,5.2
+UK,56,Vegetarian,Bicycle,House,3.21
+France,24,Vegan,Car,Apartment,2.22
+Italy,53,Vegan,Public Transit,Apartment,2.38
+Germany,49,Meat-based,Bicycle,House,4.96
+UK,30,Meat-based,Car,House,5.19
+Germany,63,Vegetarian,Car,House,5.59
+UK,25,Vegetarian,Public Transit,Apartment,3.89
+France,51,Vegan,Car,House,2.72
+Spain,77,Vegan,Car,Apartment,2.87
+Germany,24,Vegetarian,Bicycle,House,4.31
+Spain,44,Vegan,Bicycle,Apartment,1.83
+Italy,80,Vegetarian,Public Transit,Apartment,3.23
+UK,62,Vegan,Bicycle,House,2.47
+UK,73,Vegetarian,Bicycle,Apartment,2.61
+UK,63,Vegetarian,Bicycle,House,3.34
+Germany,80,Vegan,Bicycle,Apartment,2.91
+Italy,63,Meat-based,Public Transit,House,4.92
+Spain,61,Vegan,Bicycle,House,2.29
+Spain,69,Meat-based,Bicycle,Apartment,2.9
+Germany,21,Vegan,Car,Apartment,3.96
+Germany,80,Vegetarian,Bicycle,House,4.0
+France,62,Vegetarian,Car,Apartment,2.97
+Spain,24,Vegan,Bicycle,Apartment,2.01
+UK,42,Meat-based,Bicycle,House,4.0
+France,77,Vegetarian,Public Transit,House,3.33
+Italy,79,Vegan,Car,Apartment,3.05
+Germany,57,Vegetarian,Car,House,6.47
+UK,65,Vegan,Car,Apartment,2.85
+Germany,80,Vegan,Car,Apartment,4.54
+UK,25,Vegetarian,Car,House,4.21
+Italy,26,Meat-based,Bicycle,House,3.39
+Spain,63,Meat-based,Car,Apartment,4.96
+UK,21,Vegan,Bicycle,House,2.31
+UK,53,Vegetarian,Car,House,4.42
+Germany,51,Meat-based,Bicycle,Apartment,4.76
+UK,43,Meat-based,Public Transit,Apartment,4.8
+Italy,39,Vegetarian,Public Transit,Apartment,3.8
+UK,51,Vegetarian,Bicycle,Apartment,2.56
+Italy,46,Meat-based,Bicycle,Apartment,3.7
+Italy,42,Meat-based,Public Transit,House,4.88
+Italy,19,Vegan,Public Transit,House,2.9
+Italy,75,Vegan,Car,House,3.24
+France,28,Vegan,Bicycle,Apartment,1.64
+Germany,60,Vegan,Car,House,4.92
+Germany,52,Vegan,Bicycle,House,3.32
+France,65,Vegan,Car,Apartment,2.27
+Italy,20,Meat-based,Car,Apartment,4.53
+Italy,53,Meat-based,Bicycle,Apartment,3.67
+Spain,42,Vegetarian,Bicycle,House,2.81
+France,42,Vegan,Car,Apartment,2.35
+UK,22,Vegan,Bicycle,Apartment,2.16
+France,40,Vegan,Car,House,2.69
+Italy,56,Meat-based,Public Transit,House,4.73
+France,48,Meat-based,Bicycle,Apartment,2.48
+Spain,68,Vegan,Public Transit,Apartment,2.37
+Italy,79,Meat-based,Bicycle,Apartment,3.13
+France,54,Vegan,Public Transit,Apartment,1.98
+Italy,31,Vegetarian,Bicycle,Apartment,2.53
+Germany,57,Vegetarian,Car,Apartment,5.18
+UK,72,Meat-based,Bicycle,House,3.96
+France,36,Vegan,Car,House,2.34
+UK,49,Vegetarian,Public Transit,Apartment,3.69
+Germany,24,Vegetarian,Bicycle,Apartment,4.19
+Italy,49,Vegetarian,Public Transit,House,4.02
+Germany,54,Vegan,Public Transit,House,4.53
+Germany,18,Vegetarian,Car,Apartment,5.77
+Spain,35,Vegetarian,Car,House,4.37
+Spain,46,Vegetarian,Public Transit,House,3.7
+Germany,59,Vegan,Car,House,4.95
+Germany,75,Vegan,Car,House,4.83
+France,64,Meat-based,Car,Apartment,4.05
+UK,43,Vegan,Car,Apartment,3.0
+UK,75,Vegan,Public Transit,Apartment,2.6
+Germany,75,Vegan,Bicycle,House,2.99
+UK,50,Meat-based,Public Transit,House,4.95
+Germany,72,Vegan,Bicycle,Apartment,3.06
+Germany,46,Meat-based,Car,Apartment,7.25
+Spain,78,Vegetarian,Car,Apartment,3.85
+Germany,22,Vegetarian,Public Transit,Apartment,4.53
+Germany,51,Vegetarian,Public Transit,House,6.0
+France,20,Vegan,Public Transit,Apartment,2.14
+UK,58,Vegetarian,Bicycle,House,3.13
+UK,29,Vegetarian,Bicycle,House,3.0
+France,51,Vegetarian,Public Transit,Apartment,2.76
+Italy,70,Vegetarian,Public Transit,House,4.17
+France,50,Meat-based,Public Transit,Apartment,3.25
+UK,59,Vegetarian,Car,Apartment,3.71
+Italy,56,Vegan,Car,Apartment,2.86
+Italy,64,Meat-based,Public Transit,House,4.82
+UK,28,Vegan,Public Transit,Apartment,2.54
+Germany,54,Vegan,Car,Apartment,4.26
+France,75,Vegan,Car,Apartment,2.14
+Germany,51,Vegetarian,Bicycle,Apartment,4.17
+Italy,78,Meat-based,Car,House,5.49
+Spain,73,Vegetarian,Car,Apartment,3.9
+UK,27,Vegan,Car,House,3.08
+Italy,77,Vegetarian,Bicycle,Apartment,2.56
+Spain,26,Meat-based,Car,Apartment,4.59
+UK,61,Vegetarian,Car,Apartment,3.7
+UK,56,Meat-based,Bicycle,Apartment,3.18
+Germany,75,Vegan,Bicycle,Apartment,3.14
+Spain,51,Vegetarian,Public Transit,Apartment,3.42
+Spain,32,Vegetarian,Public Transit,House,3.72
+UK,24,Vegetarian,Car,House,4.38
+Germany,76,Meat-based,Public Transit,House,6.59
+France,63,Vegan,Car,Apartment,2.3
+Spain,59,Meat-based,Bicycle,House,3.49
+France,27,Vegetarian,Bicycle,House,2.26
+UK,45,Vegan,Public Transit,House,3.26
+Spain,66,Meat-based,Public Transit,House,4.28
+UK,53,Vegetarian,Public Transit,House,4.02
+Spain,65,Meat-based,Bicycle,Apartment,3.36
+Spain,68,Vegan,Car,Apartment,2.59
+Spain,68,Vegetarian,Bicycle,Apartment,2.39
+France,69,Meat-based,Car,House,4.6
+Spain,23,Meat-based,Public Transit,Apartment,4.01
+UK,20,Vegan,Public Transit,House,3.04
+UK,36,Vegan,Bicycle,Apartment,2.26
+Germany,58,Vegetarian,Public Transit,Apartment,4.69
+UK,36,Meat-based,Car,Apartment,5.06
+France,41,Meat-based,Bicycle,Apartment,2.93
+France,35,Vegetarian,Public Transit,House,3.0
+Germany,51,Meat-based,Bicycle,Apartment,5.25
+UK,36,Vegan,Bicycle,House,2.24
+Italy,32,Vegan,Car,House,3.51
+UK,18,Vegetarian,Car,House,4.41
+UK,22,Vegan,Public Transit,House,3.24
+UK,79,Vegetarian,Bicycle,House,3.2
+Spain,54,Vegetarian,Car,House,4.44
+Spain,61,Vegetarian,Bicycle,Apartment,2.55
+Italy,22,Vegetarian,Bicycle,Apartment,2.81
+Germany,69,Vegetarian,Public Transit,House,5.56
+France,62,Vegetarian,Car,House,3.12
+Italy,22,Vegan,Car,House,3.11
+Germany,75,Vegan,Public Transit,Apartment,4.07
+Germany,49,Vegan,Car,Apartment,4.35
+Italy,31,Meat-based,Car,Apartment,5.17
+Italy,27,Meat-based,Car,Apartment,5.01
+Spain,57,Meat-based,Bicycle,Apartment,3.42
+Italy,57,Vegetarian,Public Transit,House,3.87
+UK,35,Vegetarian,Car,Apartment,3.61
+Spain,48,Vegan,Car,House,2.98
+Germany,47,Meat-based,Bicycle,House,5.18
+France,18,Vegan,Car,House,2.59
+Italy,41,Vegan,Public Transit,Apartment,2.64
+Germany,35,Vegetarian,Bicycle,House,4.19
+Spain,45,Meat-based,Public Transit,House,4.45
+Spain,35,Vegetarian,Car,Apartment,4.01
+Germany,70,Meat-based,Bicycle,House,5.71
+UK,45,Vegetarian,Car,Apartment,4.2
+Germany,48,Meat-based,Car,House,7.69
+UK,52,Vegan,Public Transit,House,2.85
+UK,72,Vegan,Car,House,3.04
+Germany,21,Meat-based,Public Transit,House,7.39
+France,46,Vegan,Public Transit,House,2.23
+UK,53,Vegetarian,Public Transit,Apartment,3.5
+Italy,73,Vegan,Bicycle,Apartment,2.06
+UK,29,Vegetarian,Public Transit,House,4.1
+Spain,67,Vegan,Public Transit,Apartment,2.41
+Italy,47,Vegan,Car,Apartment,2.99
+Italy,44,Vegan,Bicycle,House,2.42
+France,23,Meat-based,Public Transit,Apartment,3.31
+Italy,63,Vegetarian,Bicycle,House,2.87
+Spain,67,Vegetarian,Bicycle,House,2.8
+Germany,72,Meat-based,Car,Apartment,7.15
+France,31,Meat-based,Public Transit,Apartment,3.16
+Spain,53,Meat-based,Car,House,5.1
+France,24,Vegetarian,Bicycle,Apartment,1.96
+Spain,37,Meat-based,Car,House,5.02
+Germany,26,Vegan,Car,Apartment,3.77
+Italy,73,Vegetarian,Public Transit,House,4.24
+UK,77,Vegetarian,Bicycle,House,2.86
+UK,29,Vegan,Bicycle,House,2.37
+UK,45,Vegan,Bicycle,House,2.5
+Spain,52,Meat-based,Car,House,4.88
+Spain,34,Meat-based,Public Transit,Apartment,3.7
+Germany,40,Vegetarian,Public Transit,Apartment,5.17
+Spain,78,Vegetarian,Public Transit,Apartment,3.47
+Italy,56,Meat-based,Car,House,5.04
+UK,45,Vegetarian,Car,Apartment,4.13
+Spain,71,Vegetarian,Car,House,3.72
+Germany,51,Vegan,Bicycle,House,3.09
+UK,69,Vegetarian,Public Transit,Apartment,3.82
+Germany,26,Vegetarian,Car,House,6.3
+Italy,62,Vegan,Public Transit,Apartment,2.52
+Germany,21,Vegan,Car,Apartment,4.54
+Italy,35,Meat-based,Bicycle,House,3.94
+Germany,23,Meat-based,Car,House,7.26
+Spain,37,Vegetarian,Public Transit,House,3.8
+France,39,Meat-based,Car,Apartment,3.64
+Spain,22,Vegan,Public Transit,Apartment,2.32
+Italy,70,Vegetarian,Car,Apartment,4.24
+Germany,42,Vegetarian,Car,Apartment,5.2
+France,51,Vegan,Car,House,2.49
+Italy,77,Vegetarian,Car,Apartment,4.06
+UK,51,Meat-based,Public Transit,House,5.09
+Germany,41,Meat-based,Bicycle,Apartment,5.3
+Germany,58,Vegetarian,Public Transit,Apartment,4.65
+Italy,55,Meat-based,Public Transit,Apartment,3.93
+France,55,Vegan,Public Transit,Apartment,2.01
+France,33,Meat-based,Public Transit,Apartment,3.56
+Italy,77,Vegan,Car,Apartment,2.82
+Germany,62,Vegan,Car,Apartment,4.14
+Italy,80,Vegan,Bicycle,House,2.4
+Spain,64,Meat-based,Car,House,4.94
+Germany,34,Meat-based,Public Transit,House,7.0
+UK,62,Vegetarian,Car,Apartment,3.99
+Italy,64,Vegetarian,Public Transit,Apartment,3.19
+Germany,46,Vegetarian,Public Transit,House,5.49
+UK,42,Vegan,Car,Apartment,3.04
+Italy,67,Vegan,Car,House,3.37
+UK,70,Vegetarian,Car,House,4.63
+Germany,57,Vegetarian,Public Transit,House,5.69
+France,24,Vegan,Bicycle,Apartment,1.46
+Germany,29,Meat-based,Car,Apartment,6.9
+France,20,Vegan,Bicycle,House,1.84
+UK,57,Vegan,Bicycle,House,2.1
+Germany,56,Vegan,Car,Apartment,4.51
+Germany,59,Vegetarian,Car,House,6.52
+France,41,Vegan,Bicycle,House,1.9
+France,70,Vegan,Public Transit,Apartment,2.16
+Italy,22,Meat-based,Bicycle,Apartment,3.12
+Germany,52,Vegetarian,Car,Apartment,5.57
+Germany,54,Vegan,Car,House,4.84
+UK,40,Vegan,Public Transit,House,3.2
+Germany,68,Meat-based,Bicycle,House,5.39
+Germany,52,Vegan,Public Transit,House,4.49
+UK,38,Vegetarian,Public Transit,House,4.22
+Italy,56,Meat-based,Bicycle,Apartment,3.3
+UK,77,Vegan,Public Transit,House,3.24
+Spain,79,Vegetarian,Car,Apartment,4.01
+UK,19,Vegan,Car,House,2.97
+Germany,31,Vegetarian,Car,House,6.67
+UK,53,Vegan,Bicycle,Apartment,1.91
+Spain,40,Meat-based,Car,House,4.94
+UK,33,Meat-based,Public Transit,House,4.55
+Spain,54,Meat-based,Bicycle,Apartment,3.34
+Spain,29,Vegetarian,Bicycle,Apartment,2.61
+Italy,20,Vegan,Bicycle,House,2.07
+France,76,Vegetarian,Public Transit,House,3.0
+France,73,Meat-based,Bicycle,Apartment,2.74
+Spain,21,Vegetarian,Bicycle,Apartment,2.47
+UK,27,Vegetarian,Bicycle,Apartment,2.58
+Spain,80,Vegetarian,Bicycle,Apartment,2.42
+Italy,68,Vegetarian,Car,Apartment,3.75
+Spain,54,Vegan,Car,House,2.9
+Spain,50,Vegetarian,Bicycle,Apartment,2.69
+Spain,53,Meat-based,Public Transit,House,4.71
+Germany,53,Vegan,Bicycle,Apartment,2.76
+Italy,67,Vegetarian,Public Transit,Apartment,3.22
+Spain,45,Vegetarian,Public Transit,Apartment,3.17
+UK,59,Meat-based,Public Transit,Apartment,4.89
+UK,70,Vegetarian,Bicycle,Apartment,2.74
+Germany,30,Vegan,Public Transit,Apartment,3.93
+France,25,Vegan,Car,Apartment,2.5
+Germany,73,Vegetarian,Car,House,6.39
+France,37,Vegetarian,Public Transit,Apartment,2.66
+UK,31,Meat-based,Bicycle,House,3.89
+UK,64,Meat-based,Bicycle,Apartment,3.38
+UK,20,Vegetarian,Car,Apartment,3.79
+UK,35,Meat-based,Public Transit,Apartment,4.07
+Italy,60,Vegan,Public Transit,Apartment,2.36
+Spain,32,Vegetarian,Bicycle,Apartment,2.77
+Spain,73,Vegan,Bicycle,Apartment,1.8
+UK,79,Vegetarian,Bicycle,Apartment,2.52
+UK,37,Vegetarian,Public Transit,House,4.15
+France,40,Vegan,Public Transit,House,2.35
+Germany,80,Vegan,Public Transit,Apartment,3.83
+Spain,74,Meat-based,Bicycle,House,3.36
+Italy,75,Vegetarian,Bicycle,Apartment,2.49
+Spain,51,Vegan,Bicycle,Apartment,1.89
+UK,27,Vegetarian,Public Transit,House,3.92
+Germany,31,Vegan,Car,Apartment,4.45
+Italy,62,Vegan,Bicycle,Apartment,2.01
+Germany,59,Vegan,Car,House,4.22
+UK,78,Vegan,Car,Apartment,2.86
+Germany,64,Meat-based,Public Transit,House,7.56
+Italy,46,Vegan,Bicycle,House,2.1
+Germany,24,Meat-based,Car,Apartment,7.28
+UK,57,Vegetarian,Bicycle,Apartment,2.83
+Germany,61,Meat-based,Public Transit,Apartment,6.46
+Spain,26,Vegan,Bicycle,House,2.22
+Italy,29,Vegetarian,Public Transit,House,3.59
+Germany,32,Meat-based,Public Transit,Apartment,6.76
+Spain,32,Vegan,Bicycle,Apartment,2.02
+France,29,Vegetarian,Bicycle,House,2.46
+Spain,74,Meat-based,Public Transit,House,4.82
+UK,65,Vegetarian,Bicycle,House,3.01
+UK,56,Vegan,Bicycle,Apartment,2.09
+Spain,47,Meat-based,Car,House,5.57
+France,53,Vegetarian,Bicycle,Apartment,2.0
+Spain,43,Vegetarian,Public Transit,House,3.41
+Italy,57,Meat-based,Bicycle,Apartment,3.36
+Spain,23,Vegan,Bicycle,Apartment,1.8
+UK,78,Vegan,Bicycle,Apartment,2.03
+Italy,46,Meat-based,Car,House,5.48
+Germany,74,Vegetarian,Car,House,5.94
+Germany,63,Vegan,Car,Apartment,3.83
+Spain,58,Vegetarian,Car,House,4.25
+UK,57,Meat-based,Public Transit,House,4.5
+Germany,76,Vegetarian,Bicycle,Apartment,3.61
+Germany,29,Vegan,Car,House,4.44
+Spain,36,Vegan,Car,Apartment,2.96
+Germany,18,Vegan,Public Transit,Apartment,3.71
+Spain,52,Meat-based,Bicycle,House,3.37
+UK,60,Vegetarian,Public Transit,House,3.91
+UK,56,Meat-based,Car,House,5.63
+UK,70,Meat-based,Car,Apartment,4.6
+Italy,20,Meat-based,Car,House,5.2
+France,21,Meat-based,Public Transit,Apartment,3.2
+Italy,57,Vegan,Bicycle,Apartment,2.22
+UK,41,Meat-based,Car,House,5.31
+Spain,70,Meat-based,Public Transit,Apartment,3.94
+Germany,25,Vegan,Public Transit,House,4.18
+UK,31,Vegan,Car,Apartment,2.74
+UK,23,Vegetarian,Bicycle,House,3.04
+Italy,34,Vegan,Bicycle,House,2.45
+UK,54,Vegetarian,Bicycle,House,3.08
+Germany,74,Vegan,Car,House,5.06
+France,25,Meat-based,Public Transit,Apartment,3.6
+Germany,69,Vegan,Public Transit,House,3.78
+Italy,53,Vegan,Car,Apartment,2.99
+Italy,34,Meat-based,Public Transit,House,4.85
+Italy,67,Meat-based,Car,House,5.21
+UK,57,Meat-based,Car,Apartment,4.78
+Italy,77,Vegan,Public Transit,House,3.08
+Germany,48,Meat-based,Bicycle,House,5.81
+UK,75,Vegetarian,Public Transit,House,4.3
+France,71,Vegan,Public Transit,House,2.31
+France,31,Vegan,Bicycle,House,1.89
+Italy,22,Meat-based,Public Transit,Apartment,4.22
+Spain,58,Vegan,Car,House,2.86
+France,73,Vegetarian,Bicycle,House,2.47
+Italy,44,Meat-based,Public Transit,Apartment,4.25
+Italy,31,Vegan,Public Transit,Apartment,2.41
+France,67,Meat-based,Car,House,4.25
+Spain,75,Vegan,Car,Apartment,2.66
+Spain,64,Vegan,Public Transit,House,2.55
+France,70,Vegan,Bicycle,Apartment,1.51
+France,47,Vegetarian,Bicycle,Apartment,1.93
+France,61,Vegan,Car,House,2.53
+France,24,Vegan,Bicycle,House,1.61
+Italy,58,Meat-based,Public Transit,Apartment,4.09
+Italy,52,Vegetarian,Public Transit,Apartment,3.33
+Germany,35,Meat-based,Car,Apartment,6.51
+Italy,53,Vegetarian,Public Transit,Apartment,3.8
+Italy,54,Meat-based,Car,Apartment,4.66
+Italy,52,Vegetarian,Car,Apartment,3.51
+France,24,Vegetarian,Car,Apartment,3.01
+Germany,63,Vegan,Bicycle,House,3.3
+Italy,39,Meat-based,Bicycle,Apartment,3.71
+Spain,54,Meat-based,Car,House,4.67
+Italy,61,Vegan,Bicycle,House,2.25
+Germany,27,Vegan,Public Transit,House,4.06
+Italy,68,Vegetarian,Public Transit,House,3.51
+Spain,25,Vegetarian,Public Transit,House,3.91
+Italy,67,Vegetarian,Bicycle,Apartment,2.72
+Spain,70,Vegan,Car,House,3.08
+France,68,Vegetarian,Bicycle,House,2.33
+Spain,33,Vegan,Car,Apartment,3.0
+Spain,22,Vegetarian,Car,House,4.3
+Spain,54,Vegetarian,Bicycle,Apartment,2.39
+France,65,Vegan,Bicycle,House,1.64
+UK,47,Vegetarian,Bicycle,Apartment,2.95
+Germany,37,Vegetarian,Car,Apartment,5.74
+UK,67,Vegetarian,Public Transit,House,4.07
+France,23,Meat-based,Car,Apartment,4.01
+Germany,46,Vegan,Public Transit,House,4.25
+Spain,30,Meat-based,Bicycle,House,3.41
+Italy,76,Vegetarian,Bicycle,House,3.31
+UK,18,Vegan,Bicycle,House,2.47
+Italy,21,Vegetarian,Bicycle,Apartment,2.44
+UK,70,Vegetarian,Car,House,4.72
+Germany,45,Vegan,Bicycle,House,3.31
+Spain,43,Vegetarian,Public Transit,Apartment,3.4
+Spain,26,Meat-based,Bicycle,House,3.8
+Italy,71,Vegetarian,Car,House,4.73
+Germany,26,Meat-based,Car,Apartment,6.43
+Spain,60,Vegetarian,Car,Apartment,3.39
+Spain,73,Vegetarian,Bicycle,House,2.91
+Spain,50,Vegetarian,Bicycle,House,2.78
+Germany,29,Vegetarian,Bicycle,Apartment,3.94
+Germany,63,Vegan,Public Transit,House,4.51
+UK,41,Meat-based,Car,House,5.73
+France,55,Vegetarian,Bicycle,Apartment,1.98
+UK,80,Vegetarian,Public Transit,Apartment,3.58
+UK,23,Meat-based,Public Transit,Apartment,4.62
+UK,69,Vegan,Public Transit,Apartment,2.89
+UK,67,Meat-based,Public Transit,House,4.96
+Spain,54,Vegan,Public Transit,House,2.66
+Italy,36,Meat-based,Car,House,5.62
+UK,34,Meat-based,Bicycle,House,3.91
+UK,21,Vegan,Public Transit,Apartment,2.56
+France,26,Vegan,Car,House,2.42
+UK,35,Vegetarian,Public Transit,Apartment,3.74
+UK,29,Vegan,Bicycle,Apartment,2.15
+Italy,69,Meat-based,Public Transit,Apartment,4.34
+UK,73,Meat-based,Public Transit,Apartment,4.87
+UK,77,Meat-based,Public Transit,House,5.22
+Germany,60,Vegetarian,Bicycle,Apartment,3.65
+Italy,21,Vegan,Public Transit,Apartment,2.38
+Spain,43,Vegetarian,Public Transit,House,3.84
+UK,32,Vegetarian,Bicycle,House,3.06
+Germany,51,Vegetarian,Car,House,6.68
+Spain,42,Vegan,Public Transit,Apartment,2.27
+UK,58,Vegetarian,Public Transit,House,3.83
+Italy,69,Meat-based,Public Transit,House,4.8
+Germany,64,Vegan,Bicycle,Apartment,2.92
+Germany,38,Vegan,Car,Apartment,4.43
+France,44,Meat-based,Bicycle,Apartment,2.77
+Italy,32,Vegan,Public Transit,House,2.73
+France,57,Meat-based,Car,Apartment,4.16
+France,63,Meat-based,Car,Apartment,3.72
+UK,69,Meat-based,Car,Apartment,4.71
+Spain,60,Meat-based,Bicycle,House,3.86
+Italy,67,Vegetarian,Bicycle,House,2.87
+France,35,Meat-based,Public Transit,House,3.69
+France,34,Vegetarian,Car,House,3.1
+Germany,57,Vegetarian,Car,House,5.67
+UK,67,Vegetarian,Car,Apartment,4.29
+Italy,24,Meat-based,Car,Apartment,4.91
+Italy,67,Vegetarian,Car,House,4.0
+France,77,Meat-based,Bicycle,House,2.83
+Italy,75,Vegetarian,Bicycle,Apartment,2.72
+Spain,48,Vegetarian,Public Transit,Apartment,3.32
+France,42,Vegan,Public Transit,Apartment,2.09
+Italy,39,Vegan,Public Transit,House,2.65
+France,41,Vegan,Public Transit,Apartment,2.2
+Italy,59,Meat-based,Car,Apartment,5.29
+Germany,37,Vegan,Public Transit,Apartment,3.83
+Italy,49,Meat-based,Bicycle,House,3.94
+Germany,20,Meat-based,Car,Apartment,6.91
+France,68,Vegan,Bicycle,House,1.78
+Spain,79,Meat-based,Car,House,4.63
+France,43,Meat-based,Car,House,4.61
+UK,27,Vegan,Bicycle,Apartment,2.26
+France,65,Meat-based,Public Transit,Apartment,3.41
+UK,20,Meat-based,Bicycle,Apartment,3.13
+France,75,Vegetarian,Car,House,3.47
+UK,22,Meat-based,Car,House,5.6
+UK,32,Meat-based,Car,House,5.32
+Spain,38,Meat-based,Bicycle,Apartment,3.09
+Germany,66,Meat-based,Bicycle,Apartment,4.69
+France,35,Meat-based,Public Transit,Apartment,3.57
+UK,28,Vegetarian,Car,Apartment,3.67
+UK,42,Meat-based,Car,House,5.04
+France,29,Meat-based,Bicycle,House,2.92
+Spain,62,Meat-based,Car,Apartment,4.7
+UK,46,Vegetarian,Car,Apartment,4.05
+France,56,Meat-based,Bicycle,House,3.03
+France,58,Vegetarian,Public Transit,House,2.75
+Germany,30,Meat-based,Bicycle,Apartment,4.96
+UK,50,Meat-based,Public Transit,Apartment,4.26
+Germany,25,Meat-based,Bicycle,House,5.38
+Germany,60,Meat-based,Car,House,7.36
+Spain,34,Vegetarian,Bicycle,House,2.58
+France,77,Vegan,Car,Apartment,2.42
+Spain,50,Meat-based,Car,Apartment,4.77
+UK,55,Vegetarian,Public Transit,Apartment,3.74
+Italy,32,Meat-based,Public Transit,Apartment,4.01
+Spain,73,Meat-based,Public Transit,Apartment,3.76
+UK,49,Meat-based,Public Transit,Apartment,4.2
+UK,47,Meat-based,Public Transit,House,4.59
+Germany,58,Vegetarian,Public Transit,Apartment,4.82
+France,62,Vegan,Car,House,2.36
+Spain,47,Vegetarian,Car,House,3.84
+Italy,56,Meat-based,Bicycle,Apartment,3.44
+UK,72,Meat-based,Car,House,5.89
+Spain,73,Meat-based,Bicycle,House,3.8
+Italy,18,Vegan,Public Transit,Apartment,2.48
+Spain,55,Meat-based,Bicycle,Apartment,3.47
+France,44,Meat-based,Car,House,4.44
+UK,20,Vegetarian,Bicycle,House,3.07
+France,46,Vegetarian,Car,Apartment,3.09
+France,62,Vegan,Public Transit,Apartment,1.91
+Italy,33,Vegan,Car,Apartment,2.89
+Italy,28,Vegan,Public Transit,Apartment,2.86
+Spain,67,Meat-based,Bicycle,House,3.33
+Italy,58,Vegetarian,Bicycle,Apartment,2.91
+France,42,Vegan,Public Transit,Apartment,1.98
+Italy,62,Vegan,Bicycle,Apartment,2.15
+France,57,Vegetarian,Bicycle,Apartment,2.14
+Italy,74,Meat-based,Car,House,5.24
+UK,20,Vegetarian,Public Transit,Apartment,3.67
+France,53,Vegan,Car,Apartment,2.51
+Germany,52,Meat-based,Bicycle,House,5.64
+UK,73,Vegan,Car,Apartment,2.86
+Italy,50,Vegan,Public Transit,House,2.65
+Italy,40,Vegetarian,Public Transit,Apartment,3.47
+UK,61,Vegan,Public Transit,House,3.04
+France,30,Vegetarian,Car,Apartment,2.99
+Germany,36,Meat-based,Car,Apartment,6.61
+Germany,49,Meat-based,Car,Apartment,6.63
+UK,77,Meat-based,Public Transit,House,4.87
+France,36,Meat-based,Car,Apartment,4.1
+Germany,71,Vegan,Bicycle,House,3.17
+Italy,59,Vegan,Public Transit,House,2.96
+UK,71,Vegan,Public Transit,House,2.85
+Germany,75,Vegetarian,Car,House,5.82
+Italy,80,Vegetarian,Car,Apartment,3.76
+Spain,79,Meat-based,Bicycle,Apartment,3.34
+Italy,29,Meat-based,Bicycle,Apartment,3.16
+France,20,Vegetarian,Bicycle,Apartment,2.11
+Italy,29,Meat-based,Bicycle,Apartment,3.5
+Italy,27,Vegetarian,Public Transit,Apartment,3.51
+France,76,Meat-based,Public Transit,House,4.02
+Spain,77,Vegetarian,Car,Apartment,4.0
+UK,80,Vegan,Public Transit,House,2.95
+Italy,80,Vegan,Bicycle,Apartment,2.16
+Spain,39,Vegan,Car,House,3.29
+Germany,61,Vegan,Car,House,4.18
+UK,71,Meat-based,Public Transit,House,4.55
+France,56,Vegan,Car,Apartment,2.42
+Italy,30,Meat-based,Car,House,5.57
+France,80,Vegan,Public Transit,Apartment,2.06
+UK,56,Vegan,Car,House,3.23
+Spain,41,Vegetarian,Public Transit,Apartment,3.15
+Italy,37,Vegetarian,Bicycle,Apartment,2.56
+Spain,65,Vegetarian,Public Transit,House,3.41
+Spain,64,Vegetarian,Car,Apartment,3.4
+Italy,48,Vegan,Public Transit,Apartment,2.84
+UK,66,Vegetarian,Car,Apartment,3.89
+Italy,44,Meat-based,Bicycle,House,3.92
+Germany,30,Meat-based,Public Transit,House,7.0
+France,70,Vegetarian,Bicycle,House,2.37
+Spain,32,Meat-based,Car,Apartment,4.35
+Spain,25,Vegan,Bicycle,House,2.1
+Spain,76,Vegan,Bicycle,Apartment,1.74
+Italy,49,Meat-based,Bicycle,House,3.83
+UK,45,Vegetarian,Bicycle,House,3.37
+France,41,Vegan,Bicycle,Apartment,1.71
+Germany,55,Meat-based,Car,House,7.63
+Germany,40,Meat-based,Car,House,7.48
+Italy,21,Vegetarian,Public Transit,Apartment,3.5
+Germany,66,Meat-based,Bicycle,Apartment,4.89
+Italy,70,Vegan,Public Transit,House,3.01
+Italy,24,Vegan,Bicycle,House,2.41
+France,26,Vegan,Public Transit,House,2.42
+Spain,39,Meat-based,Car,Apartment,4.26
+Germany,71,Meat-based,Bicycle,Apartment,4.76
+France,25,Meat-based,Car,House,4.11
+Italy,26,Vegetarian,Bicycle,House,2.82
+Italy,19,Vegan,Car,Apartment,2.69
+Germany,62,Meat-based,Public Transit,Apartment,5.87
+France,45,Vegan,Car,Apartment,2.07
+Spain,66,Vegetarian,Car,Apartment,3.37
+UK,55,Meat-based,Public Transit,Apartment,4.82
+France,22,Vegetarian,Bicycle,Apartment,2.25
+France,76,Vegan,Car,Apartment,2.15
+Italy,19,Meat-based,Car,House,5.86
+Italy,40,Meat-based,Bicycle,Apartment,3.39
+France,24,Vegan,Car,Apartment,2.39
+Italy,28,Vegan,Car,Apartment,3.15
+UK,72,Vegan,Public Transit,House,3.09
+Germany,46,Vegan,Car,Apartment,4.43
+Spain,45,Meat-based,Bicycle,Apartment,3.14
+Italy,25,Vegetarian,Car,Apartment,3.87
+Italy,63,Vegetarian,Bicycle,Apartment,2.48
+Spain,25,Vegetarian,Public Transit,House,3.73
+Italy,61,Vegetarian,Car,House,4.12
+Spain,30,Meat-based,Public Transit,House,4.28
+Spain,61,Meat-based,Public Transit,House,4.59
+France,25,Meat-based,Public Transit,House,3.96
+France,65,Meat-based,Car,House,4.64
+Italy,30,Vegan,Public Transit,Apartment,2.47
+Spain,64,Vegetarian,Public Transit,House,3.85
+Spain,40,Vegetarian,Bicycle,House,3.12
+UK,35,Meat-based,Public Transit,Apartment,4.12
+Spain,49,Meat-based,Bicycle,Apartment,2.9
+France,71,Meat-based,Public Transit,Apartment,3.76
+Spain,56,Vegan,Public Transit,Apartment,2.37
+UK,24,Meat-based,Bicycle,House,4.08
+Germany,36,Vegan,Public Transit,House,4.16
+UK,39,Vegan,Bicycle,Apartment,2.27
+France,45,Meat-based,Public Transit,House,3.67
+Spain,46,Vegetarian,Car,Apartment,3.42
+Italy,74,Vegan,Car,House,3.18
+Italy,63,Vegetarian,Public Transit,Apartment,3.53
+Spain,60,Vegan,Bicycle,House,2.12
+Germany,50,Meat-based,Public Transit,House,6.91
+Spain,57,Vegan,Public Transit,House,2.64
+France,55,Meat-based,Car,House,4.11
+UK,19,Vegan,Public Transit,House,2.73
+Italy,40,Vegetarian,Public Transit,Apartment,3.6
+Germany,33,Vegan,Public Transit,Apartment,4.04
+France,73,Vegetarian,Car,House,3.17
+UK,38,Meat-based,Public Transit,House,5.02
+Spain,35,Meat-based,Bicycle,House,3.62
+Italy,42,Vegan,Public Transit,House,2.95
+Spain,24,Vegan,Bicycle,Apartment,1.86
+UK,69,Vegan,Public Transit,Apartment,2.73
+Italy,80,Vegetarian,Car,House,4.42
+France,71,Vegan,Car,House,2.42
+Italy,54,Vegetarian,Car,Apartment,4.04
+UK,24,Vegan,Public Transit,House,2.71
+UK,48,Vegetarian,Car,House,4.66
+Italy,50,Vegetarian,Public Transit,House,3.64
+Spain,34,Vegan,Bicycle,House,2.21
+UK,29,Meat-based,Bicycle,Apartment,3.52
+Germany,60,Vegan,Public Transit,House,4.52
+UK,69,Vegan,Public Transit,Apartment,2.68
+Italy,47,Meat-based,Car,Apartment,5.08
+Italy,72,Vegetarian,Public Transit,House,4.15
+France,58,Meat-based,Public Transit,House,4.06
+Germany,34,Vegan,Bicycle,Apartment,2.85
+France,27,Meat-based,Car,Apartment,4.04
+Italy,47,Vegetarian,Bicycle,House,2.97
+France,30,Meat-based,Public Transit,Apartment,3.11
+Italy,60,Vegan,Car,Apartment,3.17
+Spain,68,Meat-based,Car,Apartment,4.4
+Italy,73,Meat-based,Public Transit,House,5.01
+France,43,Vegan,Car,Apartment,2.11
+UK,77,Meat-based,Bicycle,House,3.85
+France,33,Vegan,Car,House,2.46
+UK,65,Vegetarian,Bicycle,Apartment,3.01
+Germany,27,Meat-based,Car,Apartment,7.57
+Spain,44,Vegetarian,Bicycle,Apartment,2.56
+Italy,62,Meat-based,Public Transit,House,4.82
+Germany,79,Vegetarian,Car,House,6.12
+Italy,70,Vegetarian,Car,Apartment,4.14
+France,62,Vegan,Car,House,2.57
+Italy,58,Vegan,Public Transit,Apartment,2.63
+Germany,72,Vegetarian,Public Transit,Apartment,5.39
+Spain,77,Vegetarian,Public Transit,Apartment,3.58
+Germany,37,Meat-based,Car,House,7.89
+Spain,68,Meat-based,Public Transit,Apartment,4.38
+Spain,48,Vegan,Public Transit,House,2.86
+France,70,Meat-based,Bicycle,House,2.97
+Italy,44,Vegan,Bicycle,House,2.24
+France,66,Meat-based,Bicycle,Apartment,2.74
+Germany,18,Vegetarian,Car,House,5.92
+France,25,Meat-based,Car,Apartment,4.08
+Spain,68,Vegetarian,Public Transit,House,3.93
+Germany,34,Meat-based,Bicycle,House,5.71
+Germany,23,Vegetarian,Public Transit,Apartment,4.88
+Spain,78,Vegan,Car,Apartment,2.99
+UK,59,Vegan,Bicycle,Apartment,2.25
+Spain,30,Vegetarian,Bicycle,Apartment,2.33
+UK,45,Vegan,Public Transit,Apartment,2.45
+Italy,28,Vegan,Car,Apartment,3.03
+Spain,67,Vegetarian,Bicycle,House,2.63
+Germany,30,Vegetarian,Public Transit,House,5.41
+Spain,72,Meat-based,Bicycle,Apartment,3.52
+Italy,64,Vegan,Car,House,3.02
+Germany,19,Vegetarian,Public Transit,Apartment,5.1
+Germany,41,Vegan,Bicycle,House,2.96
+Spain,26,Vegetarian,Bicycle,House,2.95
+Spain,63,Vegetarian,Bicycle,House,2.6
+UK,21,Meat-based,Public Transit,Apartment,4.43
+Italy,56,Vegan,Bicycle,Apartment,1.83
+UK,57,Vegetarian,Public Transit,House,4.1
+Germany,79,Vegan,Car,Apartment,3.95
+UK,49,Vegetarian,Public Transit,Apartment,3.27
+UK,45,Meat-based,Public Transit,Apartment,4.29
+Germany,49,Vegetarian,Bicycle,House,4.67
+Italy,75,Vegetarian,Bicycle,House,3.02
+Spain,75,Meat-based,Public Transit,House,4.81
+Germany,53,Vegan,Bicycle,House,2.94
+Germany,21,Meat-based,Car,Apartment,6.88
+Germany,63,Vegetarian,Public Transit,Apartment,5.48
+Spain,20,Vegetarian,Public Transit,House,3.63
+France,72,Vegan,Car,Apartment,2.22
+Germany,73,Vegetarian,Car,Apartment,5.81
+Italy,54,Vegan,Bicycle,Apartment,2.07
+France,51,Vegan,Car,House,2.76
+Germany,67,Vegetarian,Bicycle,Apartment,4.18
+France,36,Vegan,Bicycle,Apartment,1.57
+UK,77,Meat-based,Public Transit,Apartment,4.04
+Spain,71,Vegan,Bicycle,House,2.11
+Italy,56,Vegan,Car,House,3.53
+UK,78,Vegetarian,Public Transit,Apartment,3.36
+France,69,Vegan,Public Transit,House,2.43
+France,53,Vegan,Public Transit,Apartment,2.02
+Germany,33,Vegetarian,Car,Apartment,5.93
+Germany,42,Vegetarian,Public Transit,Apartment,4.61
+Spain,69,Vegetarian,Bicycle,House,3.07
+UK,26,Vegetarian,Bicycle,Apartment,2.96
+UK,30,Vegetarian,Public Transit,House,3.94
+UK,56,Vegetarian,Car,House,4.67
+UK,29,Vegetarian,Bicycle,House,2.83
+UK,39,Vegetarian,Bicycle,Apartment,2.85
+Germany,77,Vegetarian,Bicycle,Apartment,3.71
+Spain,23,Vegetarian,Public Transit,Apartment,3.61
+Italy,71,Meat-based,Bicycle,House,3.61
+France,53,Meat-based,Car,Apartment,3.82
+Spain,24,Vegetarian,Bicycle,House,2.76
+UK,23,Vegan,Car,Apartment,3.11
+Spain,29,Meat-based,Public Transit,Apartment,3.77
+Italy,38,Vegan,Bicycle,House,2.38
+Spain,57,Vegetarian,Public Transit,Apartment,3.1
+France,65,Vegan,Public Transit,Apartment,2.03
+France,18,Vegetarian,Car,Apartment,2.85
+Spain,47,Vegan,Public Transit,House,2.64
+UK,41,Vegan,Bicycle,House,2.45
+France,26,Meat-based,Car,Apartment,3.52
+France,62,Meat-based,Car,Apartment,3.8
+Germany,59,Meat-based,Public Transit,Apartment,5.71
+Spain,27,Vegetarian,Public Transit,Apartment,3.04
+Germany,65,Vegan,Public Transit,House,4.13
+Spain,55,Meat-based,Car,House,5.15
+Spain,21,Vegetarian,Car,Apartment,3.75
+Spain,80,Vegetarian,Public Transit,House,3.32
+Spain,49,Vegan,Bicycle,House,2.02
+France,51,Meat-based,Public Transit,House,3.86
+Italy,75,Vegan,Public Transit,House,2.68
+UK,78,Vegan,Public Transit,House,3.09
+France,28,Vegetarian,Bicycle,Apartment,2.12
+Spain,32,Vegan,Car,House,3.31
+Spain,26,Vegetarian,Bicycle,House,3.11
+Italy,68,Vegetarian,Car,Apartment,3.71
+France,60,Vegetarian,Car,Apartment,2.87
+UK,49,Meat-based,Public Transit,House,4.76
+Germany,53,Meat-based,Car,House,8.28
+Italy,61,Meat-based,Car,Apartment,5.14
+Italy,45,Meat-based,Bicycle,Apartment,3.13
+Germany,49,Vegetarian,Public Transit,House,5.84
+UK,35,Meat-based,Bicycle,Apartment,3.61
+Spain,69,Vegetarian,Car,Apartment,3.86
+UK,68,Meat-based,Bicycle,Apartment,3.47
+Germany,58,Meat-based,Car,House,7.16
+Italy,63,Vegetarian,Bicycle,House,3.15
+France,27,Vegan,Public Transit,House,2.44
+France,72,Meat-based,Public Transit,House,4.02
+France,33,Vegetarian,Public Transit,House,3.06
+France,35,Vegetarian,Bicycle,House,2.31
+Germany,27,Vegan,Public Transit,Apartment,3.47
+Spain,44,Vegetarian,Public Transit,House,3.98
+Spain,27,Meat-based,Bicycle,Apartment,2.93
+Italy,43,Meat-based,Public Transit,Apartment,4.26
+France,60,Vegan,Car,Apartment,2.51
+UK,80,Vegetarian,Public Transit,House,4.27
+UK,73,Vegetarian,Bicycle,House,3.33
+France,70,Vegetarian,Bicycle,Apartment,2.22
+Spain,59,Meat-based,Bicycle,House,3.7
+Spain,67,Meat-based,Public Transit,Apartment,3.73
+Italy,42,Vegan,Bicycle,Apartment,2.04
+UK,36,Meat-based,Car,House,5.52
+Germany,19,Meat-based,Bicycle,House,5.1
+Italy,64,Vegetarian,Bicycle,Apartment,2.84
+Italy,34,Vegan,Bicycle,House,2.09
+France,46,Vegetarian,Bicycle,Apartment,2.12
+Germany,69,Vegan,Bicycle,Apartment,2.82
+Italy,60,Vegan,Bicycle,Apartment,2.12
+UK,65,Meat-based,Car,House,5.52
+Germany,70,Vegetarian,Public Transit,Apartment,4.63
+Spain,71,Vegetarian,Car,Apartment,3.34
+Germany,48,Meat-based,Public Transit,Apartment,6.07
+UK,43,Vegan,Bicycle,House,2.48
+UK,49,Vegan,Public Transit,House,3.08
+Spain,64,Vegetarian,Car,Apartment,3.66
+Spain,63,Vegetarian,Car,Apartment,3.8
+Spain,48,Meat-based,Bicycle,Apartment,3.48
+Italy,76,Meat-based,Bicycle,House,3.47
+Italy,54,Vegetarian,Car,Apartment,3.58
+Italy,41,Vegetarian,Public Transit,House,3.51
+Germany,27,Vegan,Public Transit,Apartment,4.06
+Italy,74,Vegetarian,Car,Apartment,4.12
+Spain,18,Meat-based,Bicycle,House,3.25
+France,44,Vegetarian,Bicycle,House,2.41
+Italy,68,Vegetarian,Public Transit,Apartment,3.67
+UK,58,Vegetarian,Public Transit,House,3.68
+Italy,23,Vegan,Bicycle,House,2.21
+Spain,39,Vegan,Car,House,3.19
+France,73,Meat-based,Bicycle,Apartment,2.71
+Italy,53,Vegan,Car,Apartment,2.73
+UK,52,Vegan,Car,Apartment,3.12
+UK,75,Meat-based,Car,Apartment,5.41
+Italy,68,Meat-based,Car,House,4.93
+UK,56,Vegetarian,Public Transit,Apartment,3.56
+France,39,Vegetarian,Car,House,3.07
+UK,38,Vegetarian,Public Transit,Apartment,3.29
+France,52,Meat-based,Public Transit,Apartment,3.22
+France,27,Vegetarian,Public Transit,Apartment,2.51
+Italy,29,Meat-based,Bicycle,Apartment,3.25
+France,38,Meat-based,Public Transit,House,3.63
+France,21,Meat-based,Car,Apartment,3.81
+UK,42,Meat-based,Public Transit,Apartment,4.29
+UK,44,Meat-based,Public Transit,Apartment,4.37
+Germany,76,Meat-based,Public Transit,Apartment,5.91
+UK,59,Meat-based,Public Transit,House,4.9
+UK,31,Meat-based,Public Transit,Apartment,4.71
+UK,78,Vegetarian,Bicycle,House,2.8
+Spain,79,Vegan,Public Transit,Apartment,2.22
+Spain,35,Vegan,Public Transit,House,3.02
+Germany,55,Vegan,Public Transit,Apartment,3.48
+UK,54,Meat-based,Public Transit,Apartment,4.36
+France,71,Meat-based,Bicycle,House,3.19
+Germany,57,Vegan,Public Transit,House,4.26
+Spain,35,Meat-based,Bicycle,House,3.44
+Spain,79,Vegan,Public Transit,Apartment,2.67
+Germany,59,Meat-based,Bicycle,House,4.85
+France,61,Meat-based,Public Transit,House,4.02
+UK,23,Vegan,Bicycle,Apartment,2.1
+Spain,61,Meat-based,Public Transit,House,4.87
+Italy,42,Meat-based,Bicycle,Apartment,3.14
+Italy,77,Meat-based,Public Transit,Apartment,4.12
+France,66,Vegetarian,Bicycle,House,2.23
+UK,58,Vegetarian,Bicycle,Apartment,2.62
+Spain,79,Vegetarian,Car,House,4.06
+UK,31,Meat-based,Car,House,5.07
+Italy,54,Vegan,Public Transit,Apartment,2.64
+UK,61,Vegan,Bicycle,Apartment,1.9
+Germany,65,Meat-based,Car,House,8.36
+Germany,74,Vegan,Bicycle,House,3.03
+France,80,Vegan,Bicycle,House,1.85
+Spain,18,Vegetarian,Bicycle,Apartment,2.74
+Italy,45,Vegetarian,Public Transit,Apartment,3.61
+Spain,49,Vegetarian,Bicycle,Apartment,2.76
+Germany,21,Vegetarian,Public Transit,House,5.33
+Spain,30,Vegetarian,Car,Apartment,4.02
+Germany,80,Vegan,Public Transit,Apartment,4.05
+Germany,28,Vegetarian,Public Transit,Apartment,5.11
+France,19,Vegetarian,Public Transit,Apartment,2.8
+Italy,71,Vegetarian,Car,Apartment,3.85
+Italy,71,Meat-based,Public Transit,Apartment,4.74
+UK,57,Vegetarian,Car,House,4.47
+France,80,Meat-based,Car,House,4.08
+France,68,Meat-based,Car,House,3.86
+UK,58,Vegetarian,Car,Apartment,4.1
+UK,21,Vegetarian,Public Transit,House,3.64
+Spain,32,Vegan,Bicycle,Apartment,1.9
+Spain,68,Vegetarian,Bicycle,Apartment,2.48
+France,47,Vegan,Public Transit,Apartment,1.9
+France,56,Vegan,Car,Apartment,2.47
+Germany,58,Vegan,Public Transit,House,4.09
+UK,46,Meat-based,Car,Apartment,5.24
+France,26,Vegetarian,Bicycle,House,2.38
+Italy,37,Vegan,Bicycle,Apartment,1.89
+Italy,56,Vegetarian,Public Transit,House,4.24
+UK,55,Vegan,Bicycle,Apartment,1.89
+UK,70,Vegan,Car,House,3.2
+Germany,58,Meat-based,Car,House,7.21
+Spain,62,Vegan,Public Transit,House,2.94
+UK,79,Vegetarian,Bicycle,House,3.03
+Germany,24,Vegetarian,Car,House,5.81
+France,58,Meat-based,Bicycle,Apartment,2.65
+Germany,33,Vegetarian,Bicycle,House,4.57
+Spain,31,Vegetarian,Car,Apartment,3.56
+France,40,Meat-based,Bicycle,Apartment,2.48
+Spain,30,Vegan,Bicycle,House,1.94
+France,30,Meat-based,Public Transit,Apartment,3.24
+Italy,64,Meat-based,Public Transit,Apartment,4.08
+France,29,Vegetarian,Car,Apartment,3.26
+Germany,42,Vegan,Car,House,5.02
+Italy,47,Meat-based,Public Transit,House,5.0
+UK,80,Vegan,Public Transit,Apartment,2.47
+Germany,68,Meat-based,Car,House,7.99
+Italy,56,Vegetarian,Bicycle,Apartment,2.94
+UK,55,Meat-based,Bicycle,House,4.07
+Italy,33,Meat-based,Bicycle,House,4.05
+UK,79,Vegan,Public Transit,Apartment,2.79
+Spain,68,Vegan,Bicycle,Apartment,1.79
+Spain,66,Vegan,Bicycle,House,2.13
+Spain,29,Vegetarian,Bicycle,House,2.86
+Spain,63,Vegetarian,Public Transit,House,3.72
+UK,59,Meat-based,Car,Apartment,5.34
+Spain,73,Meat-based,Public Transit,Apartment,3.96
+Spain,54,Meat-based,Public Transit,House,4.62
+Germany,66,Meat-based,Public Transit,House,6.95
+Germany,55,Meat-based,Public Transit,House,6.82
+Spain,45,Vegetarian,Public Transit,House,3.52
+Spain,19,Meat-based,Public Transit,Apartment,3.92
+France,40,Meat-based,Public Transit,Apartment,3.63
+Germany,24,Meat-based,Car,House,6.98
+Germany,39,Meat-based,Bicycle,House,5.11
+Italy,30,Vegan,Bicycle,Apartment,2.24
+UK,76,Vegetarian,Car,House,4.21
+Italy,68,Vegetarian,Public Transit,Apartment,3.47
+UK,66,Meat-based,Public Transit,Apartment,4.21
+Germany,48,Meat-based,Bicycle,House,5.62
+Spain,39,Meat-based,Public Transit,Apartment,4.06
+Spain,31,Vegetarian,Public Transit,Apartment,3.21
+UK,73,Meat-based,Public Transit,Apartment,4.45
+Italy,39,Meat-based,Public Transit,House,5.02
+Spain,66,Vegan,Bicycle,House,2.06
+France,54,Meat-based,Car,Apartment,4.18
+Italy,54,Vegan,Bicycle,House,2.48
+Germany,78,Vegetarian,Car,House,5.77
+France,39,Vegan,Public Transit,House,2.1
+France,61,Vegan,Car,Apartment,2.44
+UK,49,Meat-based,Car,Apartment,4.52
+Spain,36,Meat-based,Car,House,5.24
+France,47,Meat-based,Public Transit,Apartment,3.21
+Spain,43,Meat-based,Car,Apartment,4.61
+Spain,65,Meat-based,Public Transit,Apartment,3.81
+Germany,37,Vegetarian,Bicycle,House,4.01
+UK,78,Vegetarian,Bicycle,Apartment,2.77
+Spain,35,Meat-based,Car,Apartment,4.52
+Spain,56,Meat-based,Bicycle,House,3.85
+Spain,47,Vegetarian,Bicycle,Apartment,2.68
+Italy,59,Vegetarian,Public Transit,House,3.79
+Germany,44,Meat-based,Car,House,7.63
+Germany,62,Vegan,Car,House,4.8
+France,33,Meat-based,Public Transit,House,3.94
+France,62,Vegan,Bicycle,Apartment,1.73
+Spain,66,Vegan,Car,House,2.79
+France,50,Vegetarian,Public Transit,House,2.85
+Germany,50,Meat-based,Public Transit,Apartment,5.7
+Spain,42,Vegetarian,Bicycle,House,3.05
+Spain,20,Meat-based,Public Transit,Apartment,4.29
+Germany,38,Vegan,Bicycle,House,3.22
+France,23,Vegan,Bicycle,Apartment,1.67
+Spain,26,Vegetarian,Public Transit,Apartment,3.07
+France,56,Meat-based,Car,House,3.92
+Spain,28,Meat-based,Bicycle,Apartment,3.31
+Germany,46,Vegetarian,Car,Apartment,5.77
+UK,31,Vegetarian,Bicycle,Apartment,2.96
+UK,59,Vegan,Bicycle,Apartment,2.03
+Italy,46,Meat-based,Bicycle,Apartment,3.08
+Spain,67,Meat-based,Car,House,5.5
+Germany,23,Meat-based,Public Transit,Apartment,6.84
+Italy,70,Meat-based,Bicycle,Apartment,3.2
+France,69,Vegan,Car,Apartment,2.08
+UK,24,Vegetarian,Public Transit,Apartment,3.65
+UK,43,Vegetarian,Car,Apartment,3.73
+Italy,38,Meat-based,Car,House,5.55
+France,42,Meat-based,Public Transit,Apartment,3.14
+Italy,59,Vegan,Public Transit,Apartment,2.39
+Germany,44,Vegetarian,Bicycle,House,4.72
+France,63,Vegan,Bicycle,Apartment,1.52
+France,56,Vegetarian,Bicycle,House,2.46
+Germany,39,Meat-based,Bicycle,House,5.9
+Spain,22,Vegetarian,Car,House,3.97
+Germany,50,Vegan,Bicycle,Apartment,2.75
+UK,66,Meat-based,Public Transit,Apartment,4.67
+Germany,57,Meat-based,Car,Apartment,6.75
+Italy,30,Meat-based,Public Transit,Apartment,4.48
+Germany,77,Vegan,Bicycle,House,3.38
+Italy,26,Vegetarian,Public Transit,Apartment,3.5
+Spain,59,Vegetarian,Car,Apartment,3.91
+Italy,39,Meat-based,Car,Apartment,5.24
+Germany,69,Vegan,Bicycle,Apartment,2.97
+Spain,51,Vegetarian,Car,House,4.17
+France,73,Vegetarian,Car,Apartment,2.78
+Germany,78,Meat-based,Car,Apartment,6.47
+UK,71,Meat-based,Car,Apartment,4.88
+Spain,37,Meat-based,Bicycle,Apartment,3.04
+Germany,56,Meat-based,Public Transit,House,7.03
+Germany,35,Vegetarian,Car,House,6.03
+Germany,48,Vegetarian,Public Transit,House,5.83
+Spain,19,Vegetarian,Public Transit,Apartment,3.46
+Italy,56,Vegan,Car,Apartment,2.76
+Spain,37,Vegetarian,Public Transit,House,3.7
+Spain,22,Vegetarian,Car,House,3.82
+Germany,18,Meat-based,Bicycle,House,5.37
+Spain,78,Vegetarian,Bicycle,House,2.78
+Italy,59,Vegan,Car,House,3.48
+France,42,Vegan,Car,Apartment,2.41
+Italy,67,Vegan,Public Transit,House,2.98
+Italy,62,Meat-based,Bicycle,House,4.09
+Germany,33,Vegetarian,Car,House,6.31
+France,62,Vegan,Bicycle,Apartment,1.53
+Spain,78,Vegan,Car,House,2.89
+UK,78,Vegan,Car,Apartment,2.74
+France,59,Vegan,Public Transit,House,2.38
+France,51,Meat-based,Public Transit,Apartment,3.66
+Italy,62,Vegetarian,Bicycle,House,3.06
+Spain,66,Vegan,Car,Apartment,2.82
+Italy,70,Meat-based,Public Transit,Apartment,4.73
+Spain,62,Vegetarian,Car,Apartment,3.89
+France,24,Meat-based,Bicycle,House,2.98
+Italy,64,Vegetarian,Car,Apartment,3.78
+Germany,30,Vegetarian,Car,Apartment,5.48
+Germany,29,Meat-based,Car,Apartment,7.35
+Germany,34,Vegetarian,Public Transit,Apartment,5.35
+Germany,23,Vegetarian,Car,House,5.69
+France,39,Meat-based,Bicycle,Apartment,2.66
+France,18,Meat-based,Public Transit,Apartment,3.55
+France,24,Meat-based,Bicycle,Apartment,2.6
+UK,79,Vegetarian,Public Transit,House,4.16
+UK,45,Vegetarian,Public Transit,House,4.36
+Germany,78,Vegetarian,Bicycle,House,4.2
+France,80,Vegetarian,Public Transit,Apartment,2.47
+Spain,64,Meat-based,Car,Apartment,4.91
+Italy,78,Vegan,Car,House,3.2
+Spain,50,Vegetarian,Bicycle,Apartment,2.31
+Italy,19,Vegan,Public Transit,Apartment,2.86
+Italy,61,Vegetarian,Car,House,4.22
+UK,68,Meat-based,Public Transit,House,5.38
+Spain,60,Vegan,Car,House,2.92
+Germany,63,Meat-based,Bicycle,Apartment,4.48
+France,37,Vegan,Bicycle,House,1.66
+Spain,79,Meat-based,Public Transit,Apartment,3.9
+Germany,66,Vegan,Bicycle,Apartment,2.68
+France,28,Vegetarian,Public Transit,House,2.88
+Italy,60,Vegetarian,Bicycle,Apartment,2.8
+UK,58,Vegan,Public Transit,Apartment,2.83
+Italy,73,Meat-based,Bicycle,Apartment,3.49
+Spain,76,Vegan,Bicycle,House,2.2
+UK,79,Vegetarian,Car,Apartment,3.77
+Italy,23,Meat-based,Car,House,5.64
+Germany,65,Meat-based,Bicycle,House,4.98
+Italy,79,Vegetarian,Bicycle,Apartment,2.61
+UK,52,Meat-based,Public Transit,House,4.77
+Italy,69,Vegan,Car,Apartment,2.68
+France,52,Vegetarian,Public Transit,Apartment,2.92
+Italy,71,Meat-based,Public Transit,House,4.5
+Italy,27,Vegan,Bicycle,Apartment,2.07
+Italy,50,Vegan,Car,House,3.55
+UK,48,Vegan,Car,House,3.16
+Spain,21,Vegetarian,Car,Apartment,3.91
+Germany,62,Vegan,Car,Apartment,4.45
+Spain,37,Vegan,Car,Apartment,2.77
+Italy,45,Vegan,Public Transit,House,3.05
+Spain,22,Vegan,Bicycle,House,2.04
+Germany,62,Vegan,Public Transit,Apartment,3.46
+UK,73,Meat-based,Bicycle,House,3.82
+Germany,54,Meat-based,Public Transit,House,6.63
+Germany,31,Meat-based,Bicycle,Apartment,5.07
+France,41,Vegan,Bicycle,Apartment,1.66
+Germany,42,Vegetarian,Bicycle,Apartment,4.21
+France,40,Vegetarian,Car,Apartment,2.82
+UK,59,Vegetarian,Bicycle,House,3.37
+Spain,33,Meat-based,Car,Apartment,4.48
+Italy,62,Vegan,Car,House,3.41
+France,67,Vegetarian,Bicycle,House,2.27
+Spain,41,Meat-based,Car,Apartment,4.19
+Spain,59,Vegan,Bicycle,Apartment,1.74
+UK,54,Vegetarian,Public Transit,Apartment,3.77
+Germany,42,Vegetarian,Bicycle,House,4.13
+Germany,24,Vegetarian,Car,Apartment,5.43
+France,43,Vegan,Bicycle,House,1.63
+UK,52,Vegan,Bicycle,Apartment,2.18
+Germany,79,Vegan,Car,Apartment,4.45
+Germany,18,Vegan,Public Transit,House,3.84
+Germany,54,Meat-based,Bicycle,Apartment,4.45
+Italy,72,Meat-based,Car,Apartment,4.85
+Italy,79,Vegan,Car,House,3.54
+France,33,Vegetarian,Car,House,3.5
+Spain,26,Vegan,Public Transit,House,2.76
+Italy,56,Vegan,Bicycle,Apartment,2.11
+France,33,Meat-based,Car,Apartment,3.66
+Germany,79,Meat-based,Bicycle,Apartment,4.93
+Italy,26,Vegan,Bicycle,House,2.07
+Italy,34,Vegetarian,Bicycle,Apartment,2.66
+France,78,Vegetarian,Bicycle,House,2.58
+Germany,52,Meat-based,Car,House,8.45
+Germany,63,Vegetarian,Bicycle,Apartment,3.81
+Germany,38,Vegetarian,Public Transit,Apartment,5.45
+Germany,22,Vegetarian,Car,Apartment,5.74
+Spain,22,Vegetarian,Bicycle,Apartment,2.49
+Italy,67,Vegetarian,Car,Apartment,3.7
+France,42,Meat-based,Public Transit,Apartment,3.63
+France,29,Vegan,Bicycle,House,1.81
+Spain,24,Vegan,Public Transit,House,2.77
+UK,24,Meat-based,Car,House,5.99
+Spain,29,Vegetarian,Bicycle,House,2.83
+Germany,34,Meat-based,Bicycle,Apartment,5.0
+Germany,42,Vegan,Bicycle,House,2.94
+Italy,63,Meat-based,Bicycle,House,3.92
+Germany,46,Vegetarian,Public Transit,House,5.29
+Spain,51,Vegan,Car,House,3.13
+France,78,Vegetarian,Public Transit,House,3.26
+France,22,Vegan,Car,Apartment,2.14
+France,23,Vegan,Public Transit,House,2.43
+France,79,Vegetarian,Bicycle,Apartment,2.13
+UK,61,Vegan,Bicycle,Apartment,2.04
+UK,30,Vegan,Car,House,3.43
+Italy,33,Vegan,Bicycle,Apartment,2.08
+Germany,61,Vegan,Car,Apartment,3.8
+Germany,50,Vegetarian,Car,House,6.15
+Germany,41,Meat-based,Public Transit,Apartment,6.64
+France,36,Vegetarian,Public Transit,House,2.91
+France,65,Vegan,Bicycle,House,1.68
+Italy,77,Vegan,Bicycle,Apartment,2.21
+UK,72,Vegetarian,Car,House,3.97
+Spain,39,Vegetarian,Public Transit,Apartment,2.97
+Germany,43,Vegetarian,Car,Apartment,5.46
+Germany,23,Vegan,Bicycle,Apartment,2.85
+Spain,18,Meat-based,Bicycle,House,3.36
+Spain,41,Vegetarian,Public Transit,House,3.94
+UK,69,Vegetarian,Car,House,4.54
+Spain,28,Meat-based,Public Transit,House,4.12
+Germany,25,Meat-based,Public Transit,Apartment,5.77
+Spain,65,Vegetarian,Car,Apartment,3.78
+Spain,79,Vegan,Public Transit,Apartment,2.43
+UK,49,Vegan,Bicycle,Apartment,2.01
+Spain,50,Vegan,Bicycle,House,1.98
+France,68,Meat-based,Car,Apartment,3.7
+France,67,Vegan,Car,Apartment,2.37
+Italy,45,Vegan,Bicycle,Apartment,2.01
+Italy,36,Vegetarian,Car,House,4.09
+Germany,64,Vegan,Car,Apartment,3.97
+France,73,Vegetarian,Bicycle,Apartment,2.21
+Spain,30,Vegetarian,Bicycle,Apartment,2.66
+UK,57,Meat-based,Car,Apartment,4.68
+Germany,43,Meat-based,Public Transit,Apartment,6.76
+Spain,19,Vegan,Car,Apartment,2.94
+Spain,44,Vegan,Public Transit,Apartment,2.33
+Spain,48,Meat-based,Bicycle,House,3.66
+Italy,25,Vegetarian,Public Transit,House,4.22
+Spain,33,Vegetarian,Car,Apartment,3.32
+France,60,Vegan,Public Transit,Apartment,1.97
+Italy,76,Vegan,Car,House,3.02
+Spain,41,Vegetarian,Public Transit,Apartment,3.03
+France,61,Vegan,Car,House,2.47
+Italy,65,Vegan,Bicycle,House,2.14
+Italy,31,Vegan,Public Transit,Apartment,2.82
+Germany,58,Vegan,Bicycle,Apartment,2.64
+Germany,30,Vegan,Public Transit,Apartment,3.42
+UK,57,Vegetarian,Public Transit,House,4.35
+Germany,52,Vegan,Car,Apartment,3.84
+Spain,53,Vegan,Public Transit,House,2.96
+Spain,58,Vegan,Car,House,2.78
+Spain,51,Vegan,Car,Apartment,2.8
+Germany,36,Meat-based,Bicycle,Apartment,5.13
+Germany,65,Vegetarian,Public Transit,Apartment,4.65
+UK,42,Vegan,Public Transit,House,3.03
+Germany,29,Meat-based,Car,Apartment,7.05
+France,74,Vegan,Public Transit,House,2.2
+Germany,36,Vegan,Public Transit,Apartment,3.49
+France,52,Meat-based,Public Transit,Apartment,3.53
+Italy,77,Meat-based,Public Transit,Apartment,4.48
+Germany,70,Meat-based,Bicycle,Apartment,4.36
+Italy,58,Vegan,Public Transit,House,2.66
+UK,34,Vegan,Car,House,3.56
+Italy,38,Meat-based,Bicycle,Apartment,3.61
+Germany,64,Vegetarian,Car,House,6.73
+UK,60,Vegan,Car,House,3.59
+Italy,73,Vegan,Bicycle,Apartment,2.16
+Germany,38,Vegetarian,Car,House,5.73
+Germany,64,Vegan,Public Transit,House,3.86
+Spain,23,Vegetarian,Car,House,3.81
+Germany,30,Vegan,Public Transit,Apartment,3.85
+France,37,Meat-based,Car,House,4.4
+Germany,22,Meat-based,Car,House,7.3
+Spain,24,Vegan,Bicycle,Apartment,2.01
+France,56,Meat-based,Public Transit,House,3.45
+France,66,Vegan,Car,Apartment,2.17
+France,35,Meat-based,Bicycle,Apartment,2.83
+France,79,Meat-based,Bicycle,House,3.18
+France,30,Meat-based,Public Transit,House,4.06
+Italy,39,Vegetarian,Car,Apartment,3.53
+Italy,58,Vegan,Car,Apartment,3.09
+France,52,Vegetarian,Car,House,3.15
+Germany,19,Meat-based,Public Transit,House,6.43
+Italy,32,Vegan,Public Transit,Apartment,2.61
+France,32,Meat-based,Public Transit,House,3.49
+Italy,25,Vegetarian,Car,Apartment,3.95
+Germany,45,Vegan,Public Transit,Apartment,3.87
+Germany,75,Vegan,Bicycle,House,3.31
+Italy,40,Meat-based,Public Transit,House,5.0
+Italy,69,Vegan,Car,Apartment,3.12
+Germany,67,Vegan,Car,House,4.29
+Spain,64,Vegetarian,Car,Apartment,3.71
+Italy,27,Meat-based,Public Transit,Apartment,4.08
+Spain,40,Vegetarian,Public Transit,House,3.64
+Spain,56,Vegan,Public Transit,Apartment,2.62
+Germany,42,Vegetarian,Bicycle,House,4.34
+Spain,52,Vegan,Car,House,2.79
+Spain,51,Vegan,Bicycle,Apartment,2.0
+Germany,41,Meat-based,Car,Apartment,6.73
+Spain,79,Meat-based,Car,Apartment,4.95
+Italy,72,Meat-based,Public Transit,House,4.5
+UK,80,Vegetarian,Car,Apartment,4.22
+France,65,Meat-based,Car,Apartment,3.72
+France,62,Vegetarian,Public Transit,Apartment,2.86
+UK,22,Vegetarian,Bicycle,Apartment,2.51
+Italy,27,Meat-based,Car,Apartment,4.37
+Spain,27,Meat-based,Public Transit,Apartment,4.32
+Italy,48,Vegetarian,Bicycle,House,2.98
+France,36,Meat-based,Car,Apartment,4.11
+France,56,Meat-based,Bicycle,Apartment,2.41
+Spain,61,Vegetarian,Bicycle,House,3.08
+UK,37,Vegan,Car,House,3.58
+Italy,80,Meat-based,Bicycle,House,4.13
+Germany,65,Meat-based,Public Transit,Apartment,5.88
+Germany,70,Vegan,Bicycle,Apartment,3.09
+Spain,48,Vegetarian,Bicycle,House,3.03
+Germany,21,Vegetarian,Bicycle,House,4.04
+France,24,Meat-based,Public Transit,House,3.46
+Italy,28,Vegan,Car,Apartment,2.74
+France,66,Vegetarian,Car,Apartment,3.14
+France,33,Vegetarian,Car,Apartment,3.09
+Spain,20,Meat-based,Public Transit,Apartment,4.48
+France,80,Vegetarian,Public Transit,House,3.05
+Italy,66,Vegetarian,Bicycle,House,3.3
+France,39,Vegetarian,Bicycle,Apartment,2.14
+Germany,19,Vegan,Public Transit,House,4.22
+France,36,Meat-based,Car,House,3.88
+France,78,Vegan,Car,Apartment,2.43
+Germany,67,Vegan,Car,House,4.57
+Germany,39,Vegetarian,Public Transit,House,5.03
+Spain,33,Meat-based,Bicycle,Apartment,3.49
+UK,58,Vegetarian,Car,Apartment,3.68
+Italy,53,Meat-based,Public Transit,Apartment,4.32
+Germany,77,Vegetarian,Car,Apartment,5.29
+Italy,40,Meat-based,Car,Apartment,5.05
+Spain,34,Vegetarian,Public Transit,House,3.77
+Germany,78,Meat-based,Bicycle,House,4.89
+Italy,43,Vegetarian,Bicycle,Apartment,2.68
+UK,72,Vegan,Public Transit,House,2.72
+Spain,50,Vegetarian,Public Transit,Apartment,3.37
+France,65,Meat-based,Bicycle,Apartment,2.49
+France,36,Vegetarian,Car,House,3.63
+Germany,42,Vegetarian,Bicycle,Apartment,3.76
+Spain,59,Vegan,Public Transit,Apartment,2.26
+France,76,Vegetarian,Public Transit,Apartment,2.69
+France,38,Vegetarian,Bicycle,House,2.24
+Spain,25,Vegetarian,Public Transit,Apartment,3.32
+Spain,27,Vegan,Car,House,3.09
+UK,67,Vegetarian,Car,House,4.65
+Spain,31,Meat-based,Car,Apartment,4.99
+Spain,35,Vegetarian,Bicycle,Apartment,2.35
+France,35,Vegetarian,Car,House,3.65
+Spain,73,Vegetarian,Bicycle,Apartment,2.65
+Italy,29,Meat-based,Car,House,5.21
+Italy,28,Meat-based,Public Transit,House,4.82
+UK,62,Meat-based,Bicycle,House,3.74
+UK,42,Meat-based,Bicycle,Apartment,3.17
+UK,57,Meat-based,Public Transit,House,4.47
+Spain,77,Meat-based,Public Transit,House,4.22
+Spain,34,Vegan,Bicycle,Apartment,2.11
+Germany,58,Vegetarian,Bicycle,Apartment,3.52
+Germany,44,Vegan,Bicycle,Apartment,2.97
+Germany,40,Meat-based,Car,Apartment,6.74
+Italy,19,Vegetarian,Public Transit,Apartment,3.63
+Spain,44,Vegetarian,Public Transit,House,3.9
+Spain,51,Vegetarian,Car,Apartment,3.63
+Italy,29,Vegan,Bicycle,Apartment,2.05
+Spain,36,Vegan,Bicycle,House,2.19
+UK,78,Meat-based,Car,Apartment,4.54
+France,57,Vegetarian,Car,House,3.56
+UK,77,Vegan,Car,House,3.3
+France,60,Vegetarian,Public Transit,Apartment,2.6
+Spain,53,Vegetarian,Car,Apartment,3.92
+France,40,Vegetarian,Public Transit,House,2.75
+Italy,68,Meat-based,Bicycle,House,3.59
+Italy,37,Vegetarian,Bicycle,Apartment,2.44
+Spain,20,Meat-based,Car,Apartment,4.84
+UK,70,Vegan,Bicycle,House,2.23
+UK,45,Meat-based,Bicycle,House,3.61
+Spain,71,Meat-based,Bicycle,House,3.29
+Spain,80,Vegan,Car,House,3.29
+UK,28,Vegetarian,Car,Apartment,4.13
+Germany,50,Meat-based,Bicycle,House,5.75
+Italy,71,Vegan,Car,House,3.04
+France,19,Vegetarian,Car,Apartment,2.76
+UK,76,Meat-based,Bicycle,House,3.48
+Germany,80,Vegetarian,Bicycle,House,4.04
+Germany,37,Meat-based,Bicycle,Apartment,5.06
+Spain,67,Vegetarian,Bicycle,Apartment,2.45
+Germany,58,Meat-based,Bicycle,Apartment,4.47
+UK,25,Meat-based,Car,House,5.24
+Germany,23,Meat-based,Public Transit,House,7.49
+Germany,43,Meat-based,Public Transit,Apartment,6.12
+Spain,79,Vegan,Car,Apartment,2.85
+Spain,74,Vegetarian,Bicycle,House,3.02
+Germany,37,Meat-based,Car,Apartment,6.39
+Italy,40,Vegetarian,Bicycle,Apartment,2.53
+Italy,77,Meat-based,Car,Apartment,4.88
+UK,50,Meat-based,Car,House,5.08
+Germany,19,Vegetarian,Car,Apartment,5.08
+Germany,35,Vegetarian,Public Transit,Apartment,5.43
+Italy,63,Vegan,Bicycle,House,2.24
+Spain,45,Vegan,Public Transit,Apartment,2.35
+Germany,61,Vegan,Public Transit,House,3.82
+UK,37,Meat-based,Car,House,5.43
+Spain,45,Vegan,Bicycle,House,2.27
+UK,24,Vegan,Public Transit,House,2.79
+Italy,41,Vegan,Car,House,3.01
+France,79,Vegan,Public Transit,House,2.2
+UK,40,Vegetarian,Car,Apartment,3.71
+Italy,45,Meat-based,Public Transit,Apartment,3.99
+Italy,41,Meat-based,Public Transit,Apartment,3.93
+France,63,Vegetarian,Car,House,3.44
+Italy,75,Meat-based,Bicycle,Apartment,3.31
+UK,31,Vegan,Car,Apartment,3.01
+UK,78,Vegan,Car,House,3.42
+Spain,38,Vegetarian,Car,Apartment,3.33
+Spain,49,Meat-based,Public Transit,House,4.22
+Spain,28,Vegan,Public Transit,House,2.6
+France,36,Meat-based,Bicycle,Apartment,2.89
+Italy,26,Vegetarian,Car,Apartment,3.75
+France,22,Vegetarian,Car,House,3.54
+Italy,38,Vegetarian,Public Transit,Apartment,3.53
+Italy,49,Vegan,Car,House,3.1
+Spain,49,Vegan,Car,House,3.31
+France,19,Meat-based,Car,Apartment,3.54
+Italy,73,Vegan,Bicycle,House,2.14
+France,30,Vegan,Public Transit,Apartment,2.24
+France,34,Meat-based,Car,Apartment,4.16
+France,34,Vegetarian,Bicycle,House,2.27
+Germany,77,Meat-based,Bicycle,House,4.97
+Italy,73,Meat-based,Bicycle,House,3.87
+France,51,Vegan,Car,House,2.63
+Italy,38,Vegan,Public Transit,Apartment,2.4
+Italy,63,Meat-based,Public Transit,Apartment,4.5
+Germany,62,Meat-based,Car,House,7.01
+France,60,Meat-based,Public Transit,House,3.58
+France,39,Meat-based,Bicycle,House,3.12
+Italy,63,Vegetarian,Bicycle,Apartment,2.9
+France,76,Meat-based,Car,House,4.14
+Spain,73,Vegan,Bicycle,Apartment,2.03
+Germany,22,Vegetarian,Public Transit,Apartment,5.17
+UK,59,Meat-based,Car,House,5.91
+France,33,Meat-based,Public Transit,Apartment,3.27
+Spain,60,Vegan,Public Transit,House,2.61
+UK,23,Vegetarian,Public Transit,Apartment,3.31
+UK,45,Vegan,Public Transit,Apartment,2.64
+Italy,24,Meat-based,Bicycle,House,3.94
+Spain,30,Vegetarian,Car,House,3.8
+Italy,51,Vegan,Public Transit,House,2.68
+France,59,Meat-based,Car,Apartment,3.52
+France,54,Vegetarian,Car,Apartment,3.07
+Italy,32,Vegan,Bicycle,House,2.21
+France,32,Vegan,Bicycle,House,1.78
+Germany,68,Meat-based,Public Transit,House,7.21
+Italy,64,Meat-based,Car,Apartment,4.85
+UK,48,Vegan,Public Transit,Apartment,2.5
+France,28,Meat-based,Public Transit,House,3.54
+France,60,Vegetarian,Public Transit,House,2.76
+Italy,74,Meat-based,Car,Apartment,4.93
+Spain,55,Meat-based,Public Transit,Apartment,4.09
+France,70,Meat-based,Bicycle,House,3.17
+UK,50,Meat-based,Car,Apartment,4.55
+Italy,46,Vegetarian,Bicycle,House,3.31
+Italy,60,Vegetarian,Public Transit,House,3.84
+Italy,37,Vegan,Public Transit,House,2.68
+UK,64,Vegan,Car,Apartment,3.25
+Germany,60,Meat-based,Public Transit,House,6.27
+UK,65,Vegan,Public Transit,House,2.8
+France,30,Vegetarian,Bicycle,Apartment,2.34
+UK,75,Vegetarian,Bicycle,Apartment,2.64
+Italy,74,Vegetarian,Public Transit,House,4.22
+Italy,37,Meat-based,Car,House,5.74
+France,45,Vegetarian,Bicycle,House,2.27
+France,49,Vegan,Car,House,2.64
+UK,79,Vegetarian,Bicycle,Apartment,2.66
+Italy,22,Vegetarian,Car,House,3.91
+Italy,70,Vegan,Car,Apartment,2.9
+France,45,Vegetarian,Bicycle,Apartment,1.94
+Germany,40,Vegetarian,Bicycle,Apartment,4.23
+Italy,27,Vegan,Car,House,3.28
+France,36,Meat-based,Car,House,4.61
+Germany,69,Vegan,Bicycle,House,3.18
+France,75,Vegetarian,Public Transit,House,2.85
+Spain,61,Vegetarian,Bicycle,Apartment,2.65
+Germany,34,Meat-based,Public Transit,Apartment,5.98
+France,37,Vegan,Bicycle,House,1.8
+Spain,68,Vegetarian,Car,Apartment,3.68
+Italy,50,Vegan,Bicycle,House,2.25
+Spain,47,Vegetarian,Public Transit,House,3.31
+UK,19,Vegetarian,Car,Apartment,4.05
+Italy,68,Meat-based,Bicycle,House,3.49
+UK,75,Vegan,Public Transit,Apartment,2.81
+Spain,26,Vegetarian,Bicycle,Apartment,2.54
+UK,47,Meat-based,Car,Apartment,4.72
+France,39,Vegan,Car,House,2.58
+Italy,73,Meat-based,Car,Apartment,5.04
+UK,27,Vegan,Bicycle,House,2.14
+Germany,37,Vegan,Public Transit,Apartment,3.97
+UK,62,Meat-based,Car,Apartment,4.46
+UK,74,Meat-based,Bicycle,Apartment,3.29
+France,48,Meat-based,Bicycle,House,2.9
+France,37,Vegetarian,Public Transit,Apartment,2.92
+UK,34,Vegan,Bicycle,House,2.48
+UK,25,Vegetarian,Car,Apartment,3.71
+Germany,28,Vegan,Bicycle,Apartment,2.89
+Italy,36,Vegan,Car,House,3.14
+Italy,43,Vegetarian,Bicycle,Apartment,2.69
+Spain,27,Meat-based,Public Transit,House,4.22
+Spain,18,Vegan,Public Transit,Apartment,2.54
+UK,46,Meat-based,Public Transit,Apartment,4.43
+Spain,35,Meat-based,Car,House,5.08
+UK,31,Vegetarian,Bicycle,House,3.09
+Germany,59,Meat-based,Public Transit,House,6.86
+Germany,35,Vegan,Public Transit,House,3.79
+Spain,42,Vegetarian,Bicycle,Apartment,2.6
+UK,67,Vegan,Bicycle,House,2.14
+Italy,55,Vegan,Public Transit,House,2.65
+France,72,Vegan,Car,Apartment,2.1
+France,49,Vegan,Public Transit,House,2.41
+Germany,24,Meat-based,Bicycle,House,5.66
+Spain,77,Meat-based,Car,House,4.69
+France,46,Vegetarian,Bicycle,Apartment,2.32
+Italy,24,Vegan,Public Transit,House,2.69
+UK,53,Meat-based,Car,House,5.49
+Italy,32,Meat-based,Bicycle,Apartment,3.34
+UK,69,Meat-based,Car,Apartment,5.08
+France,31,Meat-based,Car,Apartment,3.71
+Spain,54,Vegan,Car,House,2.86
+UK,49,Meat-based,Car,House,5.5
+Italy,57,Vegan,Car,Apartment,2.87
+Spain,73,Meat-based,Bicycle,Apartment,2.96
+UK,37,Meat-based,Car,House,5.2
+UK,52,Vegetarian,Car,Apartment,4.21
+Italy,77,Vegetarian,Public Transit,House,3.54
+Germany,79,Vegetarian,Car,Apartment,5.93
+UK,50,Vegetarian,Public Transit,Apartment,3.6
+France,55,Vegetarian,Public Transit,Apartment,2.49
+Spain,34,Meat-based,Public Transit,Apartment,3.82
+UK,70,Vegan,Public Transit,Apartment,2.53
+France,69,Vegan,Bicycle,Apartment,1.55
+France,78,Vegetarian,Bicycle,Apartment,2.3
+Spain,78,Meat-based,Public Transit,Apartment,3.79
+Spain,50,Meat-based,Bicycle,House,3.51
+Italy,68,Meat-based,Car,Apartment,4.38
+Germany,52,Vegan,Public Transit,Apartment,3.78
+France,42,Vegetarian,Bicycle,Apartment,2.11
+Spain,53,Meat-based,Car,House,4.69
+UK,80,Vegetarian,Public Transit,Apartment,3.45
+France,33,Meat-based,Car,Apartment,3.61
+UK,54,Meat-based,Car,Apartment,5.26
+France,21,Meat-based,Public Transit,Apartment,3.29
+Italy,40,Vegan,Bicycle,Apartment,2.24
+Germany,56,Vegetarian,Public Transit,Apartment,5.14
+France,34,Vegan,Car,House,2.65
+Italy,75,Meat-based,Public Transit,House,5.27
+UK,36,Vegan,Car,House,3.18
+UK,50,Meat-based,Car,House,5.94
+UK,49,Vegetarian,Car,Apartment,4.29
+UK,32,Vegetarian,Bicycle,Apartment,2.56
+Germany,20,Meat-based,Bicycle,House,5.54
+Spain,78,Meat-based,Car,House,5.42
+Italy,35,Vegan,Public Transit,House,3.1
+France,21,Vegetarian,Bicycle,House,2.37
+Spain,42,Vegetarian,Car,Apartment,3.44
+Germany,60,Vegetarian,Bicycle,Apartment,4.0
+France,52,Vegetarian,Car,House,3.68
+Italy,69,Vegan,Car,Apartment,2.81
+UK,45,Vegetarian,Bicycle,Apartment,2.94
+UK,42,Vegan,Bicycle,House,2.48
+UK,47,Vegetarian,Bicycle,House,2.87
+Spain,47,Vegan,Car,Apartment,2.97
+Italy,69,Vegan,Public Transit,Apartment,2.88
+UK,36,Vegetarian,Bicycle,House,2.8
+Italy,41,Vegetarian,Bicycle,House,3.18
+UK,18,Meat-based,Public Transit,House,5.28
+Germany,46,Vegetarian,Car,House,5.55
+France,79,Vegetarian,Public Transit,Apartment,2.7
+UK,78,Meat-based,Public Transit,House,5.4
+Spain,29,Vegetarian,Public Transit,House,3.93
+Germany,32,Vegan,Car,Apartment,4.46
+France,32,Meat-based,Bicycle,Apartment,2.5
+UK,73,Vegetarian,Bicycle,House,2.8
+Germany,21,Vegan,Public Transit,House,3.75
+Italy,52,Vegan,Car,Apartment,2.82
+France,50,Vegetarian,Car,Apartment,2.89
+Italy,54,Vegetarian,Bicycle,House,2.75
+Spain,74,Vegetarian,Car,Apartment,3.53
+Italy,39,Vegetarian,Bicycle,House,3.0
+Italy,57,Meat-based,Car,House,4.89
+Germany,76,Vegan,Car,Apartment,4.24
+Italy,50,Vegan,Bicycle,House,2.46
+Spain,71,Vegan,Car,Apartment,2.68
+France,79,Meat-based,Car,House,4.27
+France,72,Vegan,Car,House,2.62
+UK,46,Vegetarian,Public Transit,Apartment,3.8
+Italy,76,Meat-based,Public Transit,Apartment,4.62
+Italy,32,Vegetarian,Public Transit,Apartment,3.62
+Spain,64,Vegetarian,Public Transit,Apartment,3.19
+UK,22,Vegetarian,Bicycle,House,3.14
+Spain,68,Vegetarian,Car,Apartment,3.97
+Germany,67,Vegetarian,Bicycle,Apartment,3.96
+Italy,39,Vegetarian,Car,Apartment,3.8
+UK,80,Meat-based,Bicycle,House,3.95
+Germany,75,Meat-based,Public Transit,Apartment,5.81
+Spain,34,Vegan,Bicycle,House,2.24
+Germany,73,Meat-based,Public Transit,Apartment,6.47
+France,26,Vegan,Bicycle,House,1.92
+Italy,26,Vegetarian,Bicycle,Apartment,2.83
+France,39,Vegetarian,Bicycle,Apartment,2.35
+France,22,Vegan,Public Transit,House,2.48
+Spain,65,Vegetarian,Public Transit,House,3.8
+Germany,64,Vegan,Bicycle,Apartment,2.7
+France,55,Vegan,Public Transit,House,2.23
+Spain,29,Vegan,Bicycle,House,2.32
+France,32,Vegetarian,Public Transit,House,2.78
+UK,75,Vegan,Bicycle,House,2.21
+Spain,38,Meat-based,Car,Apartment,4.86
+Germany,45,Vegan,Public Transit,House,3.82
+Italy,28,Meat-based,Public Transit,House,4.83
+Germany,74,Meat-based,Public Transit,House,7.6
+France,77,Meat-based,Bicycle,House,2.75
+Germany,53,Vegan,Car,Apartment,4.23
+France,79,Vegan,Bicycle,Apartment,1.44
+France,41,Meat-based,Public Transit,House,3.99
+UK,26,Vegetarian,Public Transit,Apartment,3.72
+France,46,Vegetarian,Public Transit,House,2.8
+Germany,35,Vegan,Bicycle,Apartment,3.18
+France,65,Meat-based,Bicycle,Apartment,2.58
+UK,39,Vegetarian,Public Transit,Apartment,3.71
+Italy,75,Meat-based,Public Transit,Apartment,4.73
+UK,38,Meat-based,Bicycle,Apartment,3.78
+France,33,Meat-based,Bicycle,House,3.19
+Germany,61,Meat-based,Public Transit,House,6.44
+Germany,64,Vegetarian,Public Transit,Apartment,4.68
+France,78,Vegan,Bicycle,Apartment,1.44
+France,49,Vegan,Bicycle,Apartment,1.67
+France,44,Vegan,Public Transit,House,2.35
+Germany,58,Vegetarian,Public Transit,Apartment,5.36
+Germany,74,Vegetarian,Bicycle,House,4.3
+Spain,56,Vegetarian,Bicycle,House,2.73
+Germany,25,Vegetarian,Public Transit,House,5.34
+Spain,25,Meat-based,Public Transit,House,4.72
+Italy,62,Vegetarian,Bicycle,Apartment,2.86
+Spain,71,Vegetarian,Bicycle,House,2.95
+France,36,Vegetarian,Bicycle,Apartment,2.3
+Spain,21,Vegan,Public Transit,House,2.84
+Spain,43,Vegetarian,Public Transit,House,3.48
+France,35,Vegetarian,Bicycle,Apartment,2.07
+France,37,Vegetarian,Public Transit,Apartment,2.79
+Germany,52,Meat-based,Bicycle,Apartment,5.28
+UK,57,Vegetarian,Car,Apartment,4.32
+France,69,Vegetarian,Car,House,3.67
+UK,22,Vegan,Car,Apartment,2.89
+Germany,28,Vegan,Public Transit,Apartment,3.58
+Germany,76,Vegetarian,Public Transit,House,5.22
+Germany,78,Meat-based,Car,Apartment,7.27
+UK,24,Vegan,Public Transit,House,2.7
+Italy,37,Meat-based,Car,Apartment,4.39
+France,70,Vegetarian,Bicycle,House,2.2
+Italy,73,Meat-based,Car,Apartment,4.85
+Spain,19,Meat-based,Bicycle,Apartment,2.94
+UK,68,Vegetarian,Car,House,4.65
+Spain,50,Vegan,Car,House,2.91
+Germany,24,Vegetarian,Bicycle,House,4.2
+Spain,23,Meat-based,Public Transit,House,4.56
+UK,50,Meat-based,Public Transit,Apartment,4.89
+Spain,78,Vegetarian,Bicycle,Apartment,2.54
+UK,80,Meat-based,Public Transit,Apartment,4.41
+Spain,54,Meat-based,Bicycle,House,3.44
+France,24,Vegan,Car,Apartment,2.46
+Spain,55,Meat-based,Car,Apartment,4.48
+Spain,51,Vegan,Bicycle,Apartment,1.75
+Spain,34,Vegetarian,Public Transit,House,3.9
+France,38,Vegan,Bicycle,House,1.91
+Italy,62,Meat-based,Bicycle,House,3.8
+Italy,79,Vegan,Car,House,3.2
+Spain,50,Vegan,Bicycle,Apartment,2.08
+Spain,62,Meat-based,Public Transit,Apartment,4.33
+Germany,51,Vegan,Car,Apartment,3.9
+France,20,Vegetarian,Public Transit,Apartment,2.82
+UK,49,Meat-based,Bicycle,House,3.77
+Italy,25,Vegetarian,Public Transit,House,3.89
+UK,74,Vegetarian,Bicycle,Apartment,2.57
+UK,61,Meat-based,Bicycle,House,3.86
+Italy,48,Vegetarian,Car,House,4.67
+Germany,28,Vegan,Bicycle,House,2.91
+Spain,29,Meat-based,Public Transit,Apartment,4.52
+France,37,Vegan,Car,Apartment,2.38
+UK,47,Vegetarian,Car,Apartment,4.06
+UK,28,Meat-based,Public Transit,Apartment,4.32
+France,77,Meat-based,Public Transit,House,4.06
+Spain,55,Vegan,Public Transit,House,2.81
+Spain,77,Vegetarian,Bicycle,Apartment,2.34
+Germany,24,Vegan,Car,House,4.32
+UK,24,Meat-based,Bicycle,House,3.72
+UK,56,Vegetarian,Bicycle,House,2.9
+France,68,Meat-based,Car,Apartment,4.14
+UK,27,Meat-based,Car,House,5.91
+Italy,22,Meat-based,Car,House,5.3
+Spain,38,Vegetarian,Bicycle,Apartment,2.43
+Spain,42,Vegetarian,Bicycle,House,2.76
+UK,38,Vegan,Car,Apartment,3.24
+Italy,63,Meat-based,Public Transit,House,4.83
+Italy,61,Meat-based,Bicycle,House,3.88
+Germany,19,Vegetarian,Public Transit,House,5.79
+Germany,57,Vegan,Car,House,4.5
+France,30,Vegetarian,Public Transit,Apartment,2.48
+Italy,39,Meat-based,Public Transit,House,4.84
+France,56,Vegetarian,Car,House,3.49
+Spain,20,Vegan,Bicycle,House,2.04
+France,80,Vegan,Car,House,2.8
+Spain,49,Meat-based,Public Transit,Apartment,3.73
+France,57,Vegan,Car,Apartment,2.46
+Germany,23,Vegetarian,Car,Apartment,5.47
+France,38,Meat-based,Bicycle,House,3.25
+Germany,59,Vegan,Bicycle,Apartment,2.81
+Italy,75,Vegan,Car,House,3.24
+Spain,44,Vegan,Bicycle,Apartment,1.75
+UK,27,Vegan,Public Transit,Apartment,2.5
+France,35,Vegan,Car,House,2.38
+France,37,Vegetarian,Bicycle,House,2.19
+Spain,54,Vegan,Car,House,2.8
+France,29,Vegan,Car,Apartment,2.21
+France,67,Meat-based,Car,Apartment,3.92
+Spain,23,Vegan,Car,House,3.25
+Germany,65,Vegan,Car,House,4.2
+Italy,29,Vegetarian,Car,House,4.23
+Germany,35,Meat-based,Car,House,7.32
+Spain,34,Meat-based,Public Transit,House,4.64
+Italy,67,Vegan,Bicycle,House,2.41
+Germany,20,Vegan,Public Transit,Apartment,3.77
+Germany,62,Vegetarian,Public Transit,House,5.21
+UK,53,Vegan,Public Transit,Apartment,2.68
+Germany,34,Meat-based,Public Transit,House,6.27
+France,51,Vegan,Bicycle,Apartment,1.59
+Spain,55,Vegetarian,Public Transit,House,3.77
+France,38,Vegan,Car,House,2.73
+France,28,Vegetarian,Public Transit,House,2.95
+France,29,Vegetarian,Public Transit,Apartment,2.73
+Germany,66,Meat-based,Public Transit,House,7.05
+Spain,64,Vegetarian,Public Transit,Apartment,3.13
+Italy,56,Vegetarian,Public Transit,House,3.72
+Germany,66,Vegan,Car,House,4.55
+Italy,79,Vegan,Public Transit,Apartment,2.44
+Germany,77,Vegetarian,Bicycle,Apartment,4.23
+UK,66,Meat-based,Car,House,5.82
+France,80,Meat-based,Public Transit,Apartment,3.64
+Spain,43,Meat-based,Public Transit,Apartment,4.25
+Germany,74,Meat-based,Public Transit,House,6.34
+Germany,72,Meat-based,Public Transit,Apartment,6.51
+Germany,61,Vegan,Public Transit,Apartment,3.72
+Italy,24,Vegetarian,Bicycle,House,3.13
+Spain,60,Vegetarian,Public Transit,Apartment,3.47
+France,42,Meat-based,Public Transit,Apartment,3.37
+Italy,75,Vegetarian,Bicycle,House,3.07
+UK,22,Vegetarian,Public Transit,Apartment,3.37
+UK,29,Meat-based,Public Transit,House,4.79
+France,57,Vegan,Public Transit,Apartment,2.12
+Germany,49,Meat-based,Car,Apartment,6.65
+France,39,Vegetarian,Bicycle,Apartment,2.11
+Italy,37,Vegetarian,Bicycle,House,2.73
+Spain,29,Meat-based,Public Transit,Apartment,4.09
+France,40,Vegan,Bicycle,Apartment,1.65
+Spain,69,Meat-based,Car,House,4.7
+UK,42,Vegan,Public Transit,Apartment,2.67
+Spain,45,Meat-based,Public Transit,House,4.35
+France,56,Vegetarian,Bicycle,House,2.51
+Italy,72,Vegan,Public Transit,Apartment,2.76
+Spain,52,Vegetarian,Bicycle,Apartment,2.38
+Italy,78,Vegan,Bicycle,House,2.12
+UK,64,Vegetarian,Public Transit,Apartment,3.54
+France,25,Vegetarian,Public Transit,House,2.78
+UK,61,Vegetarian,Public Transit,House,3.83
+Italy,67,Meat-based,Bicycle,House,3.52
+Italy,44,Meat-based,Public Transit,House,4.65
+France,56,Meat-based,Public Transit,Apartment,3.46
+Spain,33,Meat-based,Car,Apartment,4.23
+Germany,58,Vegetarian,Public Transit,House,5.37
+Spain,62,Vegan,Car,House,2.77
+Italy,41,Meat-based,Car,Apartment,4.73
+France,39,Vegan,Bicycle,House,1.75
+France,29,Vegan,Public Transit,Apartment,2.2
+Spain,79,Meat-based,Car,House,5.58
+UK,50,Vegan,Car,Apartment,2.9
+Spain,31,Vegetarian,Public Transit,Apartment,3.14
+France,56,Vegetarian,Car,House,3.24
+Spain,31,Meat-based,Public Transit,Apartment,3.93
+Spain,56,Vegan,Public Transit,Apartment,2.33
+France,63,Vegetarian,Car,Apartment,3.12
+UK,70,Vegetarian,Bicycle,House,3.16
+Italy,52,Vegetarian,Public Transit,Apartment,3.38
+Italy,40,Vegetarian,Car,House,4.61
+Spain,31,Vegan,Bicycle,Apartment,1.99
+Italy,43,Meat-based,Bicycle,Apartment,3.48
+UK,40,Meat-based,Car,House,5.28
+Italy,46,Vegan,Public Transit,Apartment,2.43
+UK,28,Vegan,Public Transit,House,2.92
+France,66,Vegetarian,Bicycle,House,2.61
+Spain,76,Vegan,Car,House,3.11
+France,24,Vegetarian,Car,Apartment,3.35
+UK,36,Meat-based,Car,House,5.56
+Italy,66,Meat-based,Public Transit,House,4.67
+Italy,58,Meat-based,Bicycle,House,3.77
+UK,43,Meat-based,Public Transit,House,5.2
+Italy,70,Vegetarian,Car,Apartment,3.8
+France,52,Vegetarian,Public Transit,Apartment,2.85
+France,42,Vegan,Bicycle,House,1.95
+Spain,30,Vegan,Car,Apartment,2.54
+UK,50,Meat-based,Bicycle,House,4.19
+Italy,57,Meat-based,Car,House,5.58
+Italy,19,Vegan,Bicycle,House,2.28
+Germany,72,Meat-based,Public Transit,House,7.23
+Germany,29,Vegetarian,Bicycle,Apartment,3.74
+Italy,22,Meat-based,Car,House,5.34
+UK,46,Meat-based,Car,House,5.5
+France,69,Vegan,Public Transit,Apartment,1.96
+France,18,Vegan,Car,House,2.73
+Spain,73,Vegetarian,Car,House,4.44
+UK,25,Vegan,Bicycle,Apartment,2.05
+France,36,Vegetarian,Bicycle,Apartment,2.08
+UK,58,Vegan,Public Transit,House,3.14
+France,27,Vegetarian,Bicycle,Apartment,2.23
+Italy,44,Vegan,Public Transit,Apartment,2.83
+Spain,31,Vegetarian,Car,House,4.18
+France,47,Vegan,Public Transit,Apartment,2.17
+Italy,36,Vegan,Public Transit,House,3.07
+Italy,54,Vegetarian,Bicycle,Apartment,2.85
+Germany,51,Vegetarian,Car,Apartment,5.96
+UK,41,Vegan,Public Transit,House,3.23
+Germany,54,Vegan,Public Transit,House,4.33
+Italy,27,Vegan,Bicycle,Apartment,1.89
+Italy,72,Vegetarian,Public Transit,Apartment,3.16
+Germany,55,Vegetarian,Car,Apartment,5.27
+UK,65,Vegan,Public Transit,House,3.04
+Germany,80,Vegetarian,Bicycle,Apartment,3.94
+UK,38,Vegan,Public Transit,House,3.19
+Spain,59,Meat-based,Bicycle,House,3.33
+Spain,18,Vegan,Car,House,2.88
+Germany,32,Meat-based,Public Transit,Apartment,6.42
+Italy,49,Vegetarian,Bicycle,Apartment,2.9
+UK,75,Meat-based,Bicycle,Apartment,3.37
+France,43,Vegan,Car,House,2.55
+Italy,53,Vegan,Bicycle,Apartment,2.22
+France,46,Vegan,Bicycle,Apartment,1.52
+Germany,62,Vegan,Car,Apartment,4.31
+Spain,29,Meat-based,Bicycle,House,3.59
+France,65,Meat-based,Bicycle,Apartment,2.89
+Germany,51,Vegetarian,Car,Apartment,5.24
+UK,66,Vegan,Public Transit,House,2.73
+France,38,Vegan,Car,Apartment,2.28
+Spain,23,Vegetarian,Car,Apartment,3.69
+Germany,56,Vegetarian,Public Transit,Apartment,5.06
+France,64,Vegetarian,Bicycle,Apartment,2.17
+UK,66,Vegetarian,Car,House,4.62
+UK,35,Vegetarian,Bicycle,Apartment,2.68
+Spain,50,Vegetarian,Bicycle,House,2.71
+UK,33,Vegetarian,Public Transit,House,4.06
+France,80,Meat-based,Public Transit,Apartment,3.31
+UK,48,Vegetarian,Car,Apartment,3.62
+Spain,61,Vegetarian,Car,House,3.94
+UK,70,Meat-based,Car,Apartment,5.21
+Germany,37,Vegan,Public Transit,House,4.37
+Spain,24,Vegan,Public Transit,Apartment,2.5
+Germany,38,Meat-based,Car,House,8.13
+Germany,57,Vegan,Car,House,5.04
+Spain,59,Vegan,Public Transit,House,2.59
+Italy,48,Vegetarian,Public Transit,Apartment,3.35
+Italy,71,Vegan,Public Transit,House,2.79
+UK,43,Vegetarian,Car,House,4.01
+Spain,40,Vegan,Car,House,3.21
+France,70,Vegan,Car,Apartment,2.36
+Italy,36,Vegetarian,Car,House,4.24
+Spain,38,Vegan,Bicycle,Apartment,2.03
+UK,50,Vegetarian,Public Transit,Apartment,3.26
+Germany,38,Vegan,Public Transit,House,4.53
+France,67,Vegan,Public Transit,House,2.18
+UK,55,Vegetarian,Car,Apartment,3.61
+Italy,35,Vegan,Public Transit,House,3.15
+France,48,Meat-based,Bicycle,Apartment,2.58
+Spain,70,Meat-based,Car,House,5.16
+UK,23,Vegetarian,Car,House,4.46
+Italy,53,Vegan,Public Transit,Apartment,2.43
+France,73,Vegan,Bicycle,House,1.94
+Italy,75,Vegetarian,Bicycle,Apartment,2.54
+Spain,32,Vegetarian,Public Transit,House,3.44
+Italy,34,Vegan,Bicycle,Apartment,1.89
+Spain,45,Vegetarian,Public Transit,Apartment,3.51
+France,76,Vegan,Public Transit,Apartment,2.09
+France,79,Vegan,Public Transit,House,2.19
+Italy,58,Meat-based,Bicycle,Apartment,3.43
+UK,67,Meat-based,Bicycle,Apartment,3.67
+France,54,Vegetarian,Bicycle,Apartment,2.24
+Spain,70,Vegetarian,Public Transit,House,3.94
+Germany,59,Vegetarian,Car,Apartment,5.7
+Italy,47,Vegan,Bicycle,House,2.44
+Spain,54,Vegetarian,Car,House,3.67
+Germany,38,Vegetarian,Car,House,6.59
+UK,61,Vegetarian,Bicycle,House,3.17
+Germany,67,Vegan,Public Transit,Apartment,3.5
+Germany,31,Vegetarian,Car,Apartment,5.01
+UK,78,Meat-based,Car,House,6.0
+Italy,73,Vegetarian,Car,Apartment,3.64
+Germany,45,Vegetarian,Car,Apartment,5.84
+France,26,Vegetarian,Car,House,3.07
+Germany,42,Meat-based,Public Transit,House,6.78
+Germany,67,Vegetarian,Bicycle,Apartment,3.56
+Germany,50,Vegan,Bicycle,Apartment,2.71
+Germany,25,Vegetarian,Bicycle,House,4.52
+Italy,44,Meat-based,Car,Apartment,5.13
+Italy,48,Vegetarian,Bicycle,Apartment,2.95
+France,18,Vegetarian,Public Transit,House,3.33
+France,40,Vegetarian,Public Transit,Apartment,2.71
+Italy,32,Vegan,Car,House,3.47
+France,78,Vegetarian,Bicycle,House,2.16
+Germany,29,Vegan,Car,Apartment,4.17
+Germany,62,Vegetarian,Car,Apartment,5.64
+Germany,73,Vegan,Bicycle,House,3.15
+Spain,70,Meat-based,Public Transit,Apartment,3.85
+UK,79,Meat-based,Bicycle,Apartment,3.37
+France,68,Meat-based,Car,House,3.99
+Spain,58,Vegetarian,Public Transit,House,3.31
+France,39,Meat-based,Public Transit,Apartment,3.6
+Germany,76,Vegetarian,Car,House,6.47
+UK,28,Meat-based,Car,Apartment,4.8
+Germany,23,Vegetarian,Car,Apartment,6.06
+Spain,80,Vegetarian,Bicycle,House,2.64
+UK,69,Vegan,Car,House,3.28
+Italy,26,Vegetarian,Bicycle,House,3.29
+France,48,Vegetarian,Bicycle,Apartment,1.98
+UK,26,Meat-based,Car,Apartment,5.19
+Spain,36,Vegan,Car,Apartment,2.59
+Germany,64,Vegan,Public Transit,House,4.33
+Spain,60,Vegan,Bicycle,House,2.24
+Germany,38,Vegetarian,Public Transit,Apartment,5.06
+France,65,Vegetarian,Bicycle,Apartment,2.26
+Germany,18,Meat-based,Bicycle,Apartment,5.17
+Germany,28,Vegetarian,Public Transit,Apartment,5.05
+Spain,72,Vegetarian,Car,House,4.03
+Germany,47,Vegan,Public Transit,House,3.84
+Italy,59,Vegan,Public Transit,House,3.19
+Germany,34,Vegetarian,Public Transit,House,5.72
+Italy,66,Vegan,Public Transit,Apartment,2.76
+Spain,59,Meat-based,Bicycle,Apartment,2.94
+Spain,71,Meat-based,Car,House,4.7
+Italy,37,Vegetarian,Public Transit,Apartment,3.81
+UK,29,Vegetarian,Bicycle,Apartment,2.57
+Germany,67,Meat-based,Car,House,7.73
+Germany,54,Vegan,Bicycle,Apartment,3.08
+Italy,52,Meat-based,Bicycle,Apartment,3.3
+France,61,Meat-based,Bicycle,Apartment,2.85
+Germany,52,Vegan,Public Transit,Apartment,3.57
+Spain,36,Vegetarian,Bicycle,House,3.07
+Spain,38,Meat-based,Bicycle,House,3.2
+Italy,63,Vegan,Bicycle,House,2.13
+UK,56,Meat-based,Car,House,5.1
+Spain,70,Meat-based,Car,House,5.37
+Spain,43,Vegan,Car,Apartment,2.93
+France,32,Vegetarian,Car,House,3.14
+UK,78,Vegan,Car,Apartment,2.94
+Italy,66,Vegetarian,Car,Apartment,3.89
+UK,24,Vegan,Bicycle,House,2.19
+Spain,37,Meat-based,Bicycle,House,3.31
+Italy,74,Vegetarian,Car,House,4.59
+Italy,25,Vegan,Public Transit,House,2.95
+Spain,66,Vegetarian,Car,Apartment,3.36
+UK,79,Vegan,Public Transit,Apartment,2.87
+Spain,71,Vegan,Public Transit,House,2.5
+France,73,Vegetarian,Bicycle,House,2.57
+UK,39,Vegetarian,Bicycle,House,3.38
+France,18,Meat-based,Bicycle,House,2.82
+Spain,32,Vegan,Public Transit,House,2.53
+Spain,53,Vegan,Bicycle,House,2.18
+Spain,20,Vegan,Car,Apartment,2.78
+France,79,Meat-based,Public Transit,House,4.06
+France,40,Vegan,Public Transit,House,2.32
+UK,20,Vegetarian,Bicycle,House,3.18
+France,31,Vegan,Car,Apartment,2.35
+Italy,24,Vegetarian,Public Transit,Apartment,3.65
+Italy,40,Vegan,Public Transit,House,3.18
+Germany,35,Vegetarian,Car,House,6.1
+Italy,67,Meat-based,Car,House,5.64
+Italy,67,Meat-based,Public Transit,Apartment,4.21
+UK,52,Vegan,Car,House,3.52
+France,76,Vegan,Car,House,2.45
+Spain,58,Meat-based,Public Transit,Apartment,3.92
+Spain,40,Vegetarian,Public Transit,House,3.84
+Germany,38,Meat-based,Car,Apartment,7.03
+UK,62,Vegan,Bicycle,House,2.43
+UK,29,Vegetarian,Bicycle,Apartment,2.6
+France,63,Vegan,Bicycle,House,1.91
+Germany,63,Vegetarian,Bicycle,House,4.22
+Spain,24,Vegan,Public Transit,Apartment,2.38
+Germany,46,Meat-based,Car,Apartment,7.15
+Italy,19,Vegetarian,Car,Apartment,3.68
+Germany,46,Vegan,Car,Apartment,3.75
+Germany,79,Meat-based,Bicycle,House,5.75
+Spain,53,Vegan,Bicycle,Apartment,1.89
+UK,55,Vegetarian,Bicycle,House,3.23
+Italy,69,Vegetarian,Public Transit,House,3.77
+Germany,38,Vegan,Public Transit,Apartment,4.08
+Germany,38,Vegan,Car,Apartment,3.82
+UK,63,Vegetarian,Bicycle,House,2.84
+UK,32,Vegan,Public Transit,Apartment,2.65
+UK,71,Meat-based,Public Transit,House,4.95
+Spain,22,Meat-based,Car,House,5.14
+France,75,Vegetarian,Public Transit,Apartment,2.51
+Italy,22,Vegan,Public Transit,House,3.17
+France,63,Vegan,Public Transit,House,2.38
+Germany,43,Meat-based,Bicycle,House,5.18
+Italy,39,Meat-based,Bicycle,House,3.5
+UK,80,Vegan,Bicycle,House,2.48
+UK,21,Vegan,Public Transit,Apartment,2.82
+France,57,Meat-based,Bicycle,House,3.1
+Germany,33,Vegan,Car,Apartment,3.76
+Spain,64,Meat-based,Public Transit,Apartment,3.78
+Spain,54,Vegan,Bicycle,House,2.26
+Spain,62,Vegetarian,Car,House,3.81
+Italy,40,Meat-based,Bicycle,House,4.05
+Spain,23,Meat-based,Public Transit,House,4.3
+Italy,59,Vegan,Car,House,3.2
+France,51,Vegetarian,Car,Apartment,3.35
+France,61,Vegetarian,Car,Apartment,2.75
+UK,18,Meat-based,Public Transit,House,4.76
+UK,54,Vegetarian,Car,Apartment,3.71
+UK,49,Meat-based,Bicycle,Apartment,3.79
+France,73,Vegan,Car,House,2.58
+Spain,63,Meat-based,Bicycle,Apartment,3.4
+Spain,19,Vegan,Car,Apartment,2.91
+Italy,77,Vegetarian,Car,House,4.46
+UK,51,Meat-based,Car,House,5.16
+Germany,57,Vegetarian,Public Transit,House,5.85
+France,60,Vegan,Car,House,2.41
+Germany,33,Vegetarian,Car,House,5.59
+France,76,Vegetarian,Bicycle,Apartment,2.29
+France,60,Vegan,Public Transit,House,2.41
+Germany,36,Vegetarian,Car,House,6.48
+Italy,78,Vegan,Public Transit,House,2.87
+France,49,Meat-based,Public Transit,Apartment,3.31
+Spain,57,Vegetarian,Public Transit,House,4.02
+Italy,67,Vegan,Bicycle,Apartment,2.04
+France,30,Meat-based,Public Transit,Apartment,3.53
+France,52,Meat-based,Car,House,4.14
+Italy,79,Vegan,Car,House,3.38
+UK,72,Meat-based,Bicycle,House,3.99
+France,76,Meat-based,Car,House,4.62
+Germany,63,Vegetarian,Car,Apartment,5.53
+UK,58,Vegan,Car,Apartment,3.22
+Germany,75,Vegan,Car,House,4.16
+Germany,60,Vegetarian,Car,House,6.55
+Italy,76,Vegetarian,Car,Apartment,3.6
+Germany,57,Vegan,Public Transit,House,4.3
+Italy,31,Vegan,Bicycle,House,2.22
+France,44,Vegetarian,Public Transit,House,3.26
+Germany,70,Vegetarian,Public Transit,Apartment,5.11
+Spain,20,Vegan,Public Transit,Apartment,2.55
+Germany,22,Vegan,Car,Apartment,3.87
+Spain,22,Meat-based,Bicycle,House,3.32
+Italy,79,Vegan,Bicycle,House,2.16
+Italy,36,Vegan,Public Transit,Apartment,2.75
+Spain,70,Meat-based,Car,House,4.78
+UK,20,Vegetarian,Public Transit,Apartment,3.29
+France,71,Vegetarian,Car,Apartment,3.21
+France,33,Vegetarian,Bicycle,House,2.35
+Germany,46,Vegan,Car,Apartment,4.38
+Italy,20,Vegan,Car,Apartment,2.81
+Italy,76,Meat-based,Public Transit,House,4.55
+France,43,Vegetarian,Car,House,3.4
+Germany,29,Vegan,Car,House,4.76
+Spain,19,Vegetarian,Car,Apartment,3.73
+Italy,53,Meat-based,Car,House,4.9
+France,44,Vegan,Bicycle,Apartment,1.64
+Germany,64,Vegetarian,Public Transit,Apartment,4.63
+France,61,Meat-based,Car,House,3.82
+France,70,Vegetarian,Bicycle,Apartment,2.29
+France,54,Vegan,Car,Apartment,2.36
+Spain,77,Vegan,Bicycle,House,2.04
+UK,42,Vegetarian,Bicycle,Apartment,2.87
+UK,34,Vegetarian,Bicycle,House,3.07
+Germany,47,Vegan,Public Transit,Apartment,3.47
+Germany,79,Vegetarian,Public Transit,Apartment,4.85
+France,45,Vegetarian,Car,Apartment,3.03
+UK,72,Meat-based,Public Transit,Apartment,4.76
+Italy,31,Vegetarian,Public Transit,House,3.84
+Spain,46,Vegetarian,Public Transit,House,3.54
+Spain,26,Vegan,Bicycle,Apartment,1.82
+Germany,54,Meat-based,Bicycle,House,5.81
+UK,73,Vegetarian,Public Transit,House,3.73
+Germany,48,Meat-based,Bicycle,House,5.17
+UK,44,Meat-based,Car,Apartment,4.79
+Germany,60,Vegetarian,Bicycle,House,4.03
+Spain,19,Vegan,Car,House,3.09
+Germany,35,Vegan,Bicycle,Apartment,2.99
+UK,68,Meat-based,Car,House,5.3
+Germany,73,Vegan,Car,House,4.44
+UK,51,Vegan,Bicycle,Apartment,2.15
+France,23,Meat-based,Car,Apartment,3.69
+France,38,Vegetarian,Car,Apartment,3.33
+Italy,71,Meat-based,Public Transit,House,4.92
+Spain,48,Vegetarian,Bicycle,Apartment,2.45
+France,69,Vegan,Car,Apartment,2.14
+France,52,Vegan,Public Transit,Apartment,2.09
+Spain,62,Vegetarian,Bicycle,Apartment,2.8
+Germany,76,Vegetarian,Car,Apartment,5.13
+Spain,48,Vegetarian,Public Transit,Apartment,3.47
+UK,62,Vegetarian,Public Transit,Apartment,3.53
+France,80,Vegetarian,Bicycle,House,2.56
+France,74,Vegetarian,Car,Apartment,2.83
+Italy,61,Vegetarian,Car,Apartment,4.26
+Germany,79,Vegan,Public Transit,House,4.33
+France,40,Vegan,Public Transit,Apartment,2.11
+UK,44,Meat-based,Public Transit,House,4.65
+Italy,80,Vegan,Car,House,3.11
+Germany,21,Vegan,Car,House,4.4
+Spain,39,Meat-based,Public Transit,House,4.72
+Italy,53,Meat-based,Car,Apartment,5.07
+France,37,Vegetarian,Car,House,3.31
+France,62,Vegan,Public Transit,House,2.21
+UK,72,Vegetarian,Public Transit,House,3.67
+Italy,64,Vegetarian,Bicycle,Apartment,2.71
+Italy,23,Vegetarian,Bicycle,Apartment,2.88
+Italy,73,Vegan,Car,Apartment,3.09
+France,33,Meat-based,Car,House,3.87
+UK,69,Meat-based,Car,Apartment,4.46
+France,65,Vegetarian,Bicycle,Apartment,1.99
+Spain,58,Vegetarian,Bicycle,Apartment,2.62
+France,63,Meat-based,Car,Apartment,3.58
+France,18,Vegetarian,Bicycle,Apartment,2.01
+France,42,Vegetarian,Bicycle,Apartment,2.13
+Germany,63,Vegetarian,Bicycle,Apartment,3.85
+UK,73,Meat-based,Public Transit,Apartment,4.46
+France,29,Meat-based,Public Transit,Apartment,3.69
+UK,80,Meat-based,Bicycle,Apartment,3.61
+France,30,Meat-based,Public Transit,Apartment,3.2
+UK,36,Vegan,Public Transit,House,2.8
+Italy,70,Vegetarian,Bicycle,Apartment,2.73
+Italy,36,Meat-based,Car,Apartment,4.42
+Italy,75,Vegan,Car,House,2.96
+Spain,18,Vegan,Bicycle,Apartment,1.85
+Italy,62,Vegan,Bicycle,Apartment,2.06
+Italy,46,Vegetarian,Bicycle,House,2.93
+Italy,66,Vegetarian,Public Transit,Apartment,3.3
+Germany,20,Vegan,Public Transit,House,4.12
+Spain,38,Vegetarian,Public Transit,House,3.62
+Germany,65,Vegetarian,Public Transit,Apartment,5.36
+Italy,42,Vegan,Car,House,3.14
+Spain,68,Vegan,Car,Apartment,2.79
+Germany,31,Meat-based,Car,House,7.65
+Italy,39,Meat-based,Car,House,5.26
+Italy,71,Vegan,Public Transit,Apartment,2.45
+UK,64,Vegetarian,Public Transit,House,4.31
+Germany,49,Vegan,Car,House,5.04
+France,78,Vegetarian,Bicycle,House,2.43
+Germany,33,Vegan,Public Transit,Apartment,3.67
+France,79,Vegetarian,Bicycle,Apartment,2.07
+Italy,61,Vegan,Public Transit,Apartment,2.67
+UK,36,Vegetarian,Bicycle,House,3.27
+Germany,41,Vegan,Public Transit,Apartment,3.38
+Italy,44,Meat-based,Car,House,5.58
+Italy,58,Vegetarian,Public Transit,House,3.93
+Italy,62,Meat-based,Car,House,5.68
+UK,80,Meat-based,Bicycle,Apartment,3.68
+Germany,49,Vegan,Public Transit,Apartment,3.6
+France,42,Meat-based,Bicycle,House,2.72
+Spain,47,Vegan,Bicycle,House,1.95
+Spain,67,Meat-based,Public Transit,Apartment,4.0
+France,48,Meat-based,Car,Apartment,3.68
+UK,48,Vegan,Car,House,3.6
+Spain,38,Vegan,Bicycle,Apartment,2.04
+Germany,79,Vegan,Bicycle,Apartment,2.79
+France,65,Meat-based,Bicycle,House,2.82
+Spain,45,Vegan,Car,House,2.9
+Germany,36,Meat-based,Car,House,7.04
+Spain,67,Meat-based,Public Transit,House,4.62
+UK,46,Vegetarian,Car,House,4.36
+Germany,63,Vegan,Public Transit,House,3.87
+Germany,38,Meat-based,Car,Apartment,7.43
+UK,48,Vegetarian,Car,House,4.69
+Spain,53,Meat-based,Bicycle,House,3.66
+Spain,29,Vegetarian,Bicycle,Apartment,2.63
+Italy,54,Vegan,Car,Apartment,3.03
+Germany,49,Meat-based,Car,Apartment,6.44
+UK,28,Vegan,Car,Apartment,3.12
+Italy,39,Meat-based,Public Transit,House,5.08
+Spain,43,Vegan,Car,House,3.13
+Spain,62,Meat-based,Bicycle,Apartment,3.4
+Spain,28,Meat-based,Public Transit,Apartment,3.9
+UK,19,Meat-based,Bicycle,Apartment,3.45
+France,32,Meat-based,Car,Apartment,3.82
+Italy,42,Vegan,Bicycle,House,2.04
+Italy,49,Meat-based,Bicycle,House,3.8
+France,30,Vegan,Car,Apartment,2.17
+Spain,18,Vegetarian,Bicycle,Apartment,2.6
+Italy,50,Meat-based,Public Transit,Apartment,4.05
+France,76,Vegan,Bicycle,House,1.7
+Italy,50,Vegetarian,Car,Apartment,4.07
+Italy,39,Meat-based,Public Transit,House,4.74
+Italy,46,Meat-based,Public Transit,House,4.56
+France,20,Vegetarian,Car,Apartment,2.87
+UK,65,Vegan,Public Transit,Apartment,2.88
+Italy,41,Vegetarian,Car,Apartment,3.93
+Italy,31,Vegan,Car,House,2.91
+Germany,73,Vegetarian,Car,House,6.7
+Spain,64,Vegetarian,Public Transit,House,3.73
+Germany,76,Vegetarian,Public Transit,House,5.86
+Germany,22,Vegan,Car,Apartment,4.45
+UK,21,Meat-based,Public Transit,Apartment,4.28
+Spain,64,Vegan,Car,Apartment,2.5
+Germany,59,Meat-based,Public Transit,House,6.33
+Spain,59,Meat-based,Public Transit,Apartment,4.44
+Italy,27,Vegetarian,Public Transit,Apartment,3.22
+France,74,Vegetarian,Car,Apartment,2.82
+Germany,47,Vegan,Bicycle,House,3.08
+UK,48,Meat-based,Bicycle,Apartment,3.27
+Spain,61,Vegetarian,Car,Apartment,3.66
+Spain,44,Meat-based,Car,Apartment,4.72
+Italy,63,Vegetarian,Bicycle,House,2.83
+Italy,19,Vegan,Public Transit,Apartment,2.48
+Spain,69,Meat-based,Bicycle,Apartment,3.44
+Spain,53,Vegan,Public Transit,Apartment,2.58
+France,36,Vegetarian,Car,House,3.36
+Spain,52,Meat-based,Public Transit,House,4.78
+UK,27,Vegetarian,Bicycle,House,3.02
+UK,43,Vegetarian,Public Transit,House,4.17
+Germany,70,Vegan,Public Transit,House,4.04
+Spain,23,Vegan,Public Transit,Apartment,2.39
+Italy,59,Vegetarian,Public Transit,Apartment,3.76
+Italy,50,Vegan,Car,House,3.25
+Germany,72,Vegan,Car,Apartment,4.42
+Spain,23,Vegetarian,Car,Apartment,3.67
+UK,18,Vegetarian,Bicycle,Apartment,2.9
+Italy,49,Meat-based,Public Transit,House,4.89
+Spain,51,Vegan,Public Transit,Apartment,2.51
+Spain,62,Meat-based,Car,House,4.73
+Germany,63,Meat-based,Bicycle,Apartment,4.84
+France,62,Vegetarian,Car,House,3.26
+Germany,52,Vegan,Car,Apartment,3.76
+France,36,Meat-based,Car,Apartment,4.07
+France,22,Vegetarian,Public Transit,Apartment,2.7
+Italy,60,Vegetarian,Car,House,4.17
+Italy,31,Vegetarian,Public Transit,House,3.98
+UK,20,Vegan,Public Transit,Apartment,2.67
+Italy,19,Vegetarian,Bicycle,House,3.23
+Spain,66,Vegan,Car,House,3.16
+UK,74,Vegetarian,Bicycle,House,3.38
+Spain,20,Vegetarian,Car,House,3.86
+France,23,Meat-based,Bicycle,Apartment,2.65
+Italy,33,Vegan,Public Transit,Apartment,2.52
+UK,67,Vegan,Public Transit,Apartment,2.73
+France,18,Vegan,Car,Apartment,2.49
+Spain,22,Vegan,Car,House,2.91
+UK,42,Vegan,Bicycle,Apartment,1.98
+France,62,Vegan,Public Transit,Apartment,2.23
+Italy,72,Meat-based,Car,House,5.49
+Spain,25,Vegan,Car,Apartment,2.58
+Spain,33,Meat-based,Public Transit,Apartment,4.34
+France,37,Meat-based,Car,House,4.55
+UK,72,Vegetarian,Car,House,4.67
+France,24,Meat-based,Car,Apartment,4.0
+UK,54,Meat-based,Public Transit,House,4.82
+Spain,19,Vegan,Bicycle,House,2.19
+France,44,Vegetarian,Car,House,3.35
+Spain,22,Meat-based,Car,House,5.46
+Italy,48,Vegetarian,Bicycle,Apartment,2.93
+Germany,25,Meat-based,Car,Apartment,7.02
+Germany,46,Vegan,Bicycle,House,3.27
+Spain,22,Vegan,Car,House,2.81
+France,32,Meat-based,Car,House,3.93
+Spain,18,Vegetarian,Car,Apartment,3.37
+Italy,55,Vegan,Car,House,3.47
+Germany,38,Meat-based,Public Transit,Apartment,5.84
+Spain,48,Vegetarian,Car,Apartment,3.42
+UK,58,Vegan,Bicycle,Apartment,1.93
+Germany,72,Vegan,Car,Apartment,4.13
+France,54,Meat-based,Car,House,4.53
+Italy,78,Meat-based,Public Transit,House,4.42
+Spain,20,Vegetarian,Public Transit,Apartment,3.09
+Italy,43,Vegetarian,Bicycle,Apartment,2.85
+Germany,48,Vegan,Bicycle,House,3.32
+Germany,33,Vegan,Bicycle,House,3.23
+France,45,Vegan,Car,House,2.32
+France,63,Meat-based,Bicycle,Apartment,2.6
+Spain,35,Vegetarian,Bicycle,House,2.73
+UK,56,Vegetarian,Public Transit,House,3.97
+Spain,66,Vegan,Bicycle,Apartment,1.91
+France,62,Vegetarian,Public Transit,Apartment,2.61
+Italy,77,Vegetarian,Public Transit,Apartment,3.36
+Italy,76,Meat-based,Bicycle,Apartment,3.29
+Italy,30,Vegetarian,Bicycle,House,2.88
+UK,45,Vegan,Bicycle,Apartment,2.19
+Germany,69,Vegan,Public Transit,Apartment,3.88
+Italy,63,Vegan,Bicycle,House,2.13
+Spain,55,Vegan,Car,Apartment,2.87
+Italy,58,Meat-based,Car,House,5.04
+Spain,41,Meat-based,Public Transit,House,4.77
+UK,47,Vegan,Public Transit,Apartment,2.54
+France,34,Meat-based,Public Transit,House,3.44
+Germany,69,Vegetarian,Public Transit,House,6.02
+UK,55,Vegetarian,Bicycle,House,2.89
+France,80,Vegetarian,Bicycle,House,2.42
+Spain,45,Vegetarian,Public Transit,Apartment,3.05
+France,41,Meat-based,Car,Apartment,3.65
+UK,52,Vegetarian,Car,Apartment,4.3
+Spain,31,Meat-based,Bicycle,Apartment,2.89
+Italy,80,Vegan,Bicycle,House,2.16
+Germany,32,Meat-based,Bicycle,House,5.84
+Italy,71,Meat-based,Car,Apartment,4.89
+Italy,66,Meat-based,Car,House,5.06
+UK,19,Meat-based,Car,House,5.84
+France,24,Meat-based,Public Transit,Apartment,3.26
+UK,28,Meat-based,Car,House,5.07
+Germany,60,Vegetarian,Public Transit,House,5.48
+Germany,24,Meat-based,Public Transit,House,6.84
+Spain,72,Vegan,Public Transit,Apartment,2.49
+Italy,31,Vegan,Public Transit,House,3.07
+UK,39,Vegetarian,Car,House,4.41
+Spain,71,Vegetarian,Bicycle,Apartment,2.5
+France,56,Vegan,Bicycle,House,1.66
+Spain,31,Meat-based,Public Transit,House,4.49
+Germany,63,Vegetarian,Car,House,6.28
+Spain,79,Meat-based,Bicycle,Apartment,3.29
+France,46,Vegan,Car,House,2.58
+Italy,42,Meat-based,Public Transit,House,5.06
+Spain,23,Vegetarian,Public Transit,House,3.46
+Italy,76,Vegetarian,Public Transit,Apartment,3.26
+UK,59,Vegan,Bicycle,Apartment,2.22
+Spain,41,Meat-based,Car,Apartment,4.76
+Germany,23,Vegan,Bicycle,Apartment,2.76
+UK,77,Vegetarian,Public Transit,Apartment,3.42
+Spain,35,Meat-based,Car,House,4.89
+UK,22,Meat-based,Car,Apartment,5.02
+Germany,36,Vegan,Public Transit,House,4.48
+Germany,19,Meat-based,Bicycle,Apartment,4.43
+France,35,Meat-based,Bicycle,Apartment,2.82
+UK,66,Vegetarian,Bicycle,Apartment,2.58
+Germany,33,Meat-based,Public Transit,Apartment,6.56
+UK,70,Meat-based,Bicycle,Apartment,3.39
+Germany,21,Vegetarian,Car,Apartment,5.25
+UK,71,Vegetarian,Bicycle,House,3.06
+Spain,29,Vegan,Car,Apartment,2.56
+UK,66,Meat-based,Car,House,5.1
+Italy,47,Vegan,Public Transit,House,2.93
+Spain,74,Vegan,Public Transit,House,2.9
+UK,63,Vegan,Public Transit,House,2.98
+Spain,28,Vegan,Public Transit,Apartment,2.62
+Germany,22,Vegan,Public Transit,House,3.83
+Spain,42,Vegetarian,Public Transit,House,3.31
+Spain,30,Meat-based,Car,House,5.36
+Germany,46,Vegan,Bicycle,Apartment,2.99
+Italy,43,Meat-based,Car,Apartment,5.23
+Spain,34,Vegetarian,Public Transit,House,3.81
+Italy,74,Meat-based,Public Transit,Apartment,4.28
+France,33,Meat-based,Bicycle,Apartment,2.56
+France,40,Vegetarian,Public Transit,House,2.8
+Italy,40,Vegan,Bicycle,House,2.05
+Spain,22,Vegetarian,Public Transit,Apartment,3.17
+UK,28,Meat-based,Car,Apartment,5.19
+UK,35,Meat-based,Car,Apartment,5.08
+Italy,19,Vegetarian,Public Transit,House,4.1
+Spain,40,Vegan,Public Transit,House,2.67
+UK,55,Meat-based,Public Transit,House,4.88
+UK,20,Vegan,Bicycle,Apartment,2.29
+Germany,77,Vegetarian,Public Transit,House,5.79
+Italy,27,Meat-based,Car,Apartment,4.96
+Italy,43,Meat-based,Car,Apartment,4.65
+Germany,30,Vegetarian,Bicycle,Apartment,3.81
+Germany,45,Vegan,Bicycle,House,3.55
+Germany,18,Meat-based,Car,Apartment,6.6
+Spain,68,Meat-based,Car,House,5.5
+Germany,77,Vegan,Public Transit,Apartment,3.42
+Spain,69,Vegetarian,Bicycle,House,3.04
+Italy,54,Vegan,Bicycle,House,2.32
+Italy,51,Meat-based,Bicycle,House,4.0
+Germany,32,Meat-based,Public Transit,House,6.61
+UK,37,Vegetarian,Bicycle,House,2.8
+UK,37,Vegetarian,Car,Apartment,4.0
+Germany,74,Meat-based,Public Transit,Apartment,6.76
+UK,50,Vegetarian,Public Transit,House,3.9
+Italy,37,Meat-based,Car,Apartment,4.96
+France,67,Vegetarian,Car,House,3.33
+Spain,27,Vegetarian,Public Transit,Apartment,3.18
+Italy,25,Vegetarian,Car,House,4.63
+Spain,77,Vegetarian,Bicycle,Apartment,2.51
+Germany,36,Meat-based,Bicycle,Apartment,4.69
+UK,38,Vegan,Public Transit,Apartment,2.46
+France,68,Vegan,Car,Apartment,2.31
+Spain,75,Meat-based,Bicycle,Apartment,3.52
+France,48,Meat-based,Car,Apartment,3.66
+Italy,61,Vegan,Bicycle,House,2.33
+France,20,Meat-based,Public Transit,House,3.51
+UK,23,Meat-based,Bicycle,Apartment,3.69
+Germany,68,Meat-based,Public Transit,House,6.38
+UK,36,Vegan,Bicycle,Apartment,2.22
+Italy,26,Meat-based,Public Transit,House,4.51
