@@ -1,5 +1,4 @@
 # Climate Change Google for Startups Accellerator 2024
-## From Data to Done session
 
 [![Watch the video](https://img.youtube.com/vi/0F9lUnpqyNk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0F9lUnpqyNk)
 
