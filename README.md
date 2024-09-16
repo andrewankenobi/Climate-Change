@@ -1,4 +1,5 @@
-# Climate Change Accelerator - From Data to Done
+# Climate Change Google for Startups Accellerator 2024
+# From Data to Done session
 
 [![Watch the video](https://img.youtube.com/vi/0F9lUnpqyNk/maxresdefault.jpg)](https://www.youtube.com/watch?v=0F9lUnpqyNk)
 
@@ -64,7 +65,7 @@ To run this application, you'll need to follow these steps:
     * Install the required dependencies: `pip install -r requirements.txt`
     * Run the Flask app: `python app.py`
 
-This will start the application on `http://127.0.0.1:8080/`
+This will start the application on `http://localhost:8080/`
 
 **Note:**  Remember to replace the placeholder project IDs and agent IDs in the code with your own.
 
